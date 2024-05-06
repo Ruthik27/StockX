@@ -1,0 +1,543 @@
+GDP Data Range: 1960-12-31 00:00:00 - 2022-12-31 00:00:00
+Fed Funds Data Range: 1954-07-01 00:00:00 - 2024-04-01 00:00:00
+Mortgage Rate Data Range: 1971-04-02 00:00:00 - 2024-05-02 00:00:00
+Shape of X_train: (3303, 8, 1)
+Shape of X_test: (826, 8, 1)
+Data Scaled DataFrame Shape: (4129, 9)
+Epoch 1/50
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+104/104 [==============================] - 3s 9ms/step - loss: 0.0151 - val_loss: 0.0368
+Epoch 2/50
+104/104 [==============================] - 0s 5ms/step - loss: 0.0019 - val_loss: 0.0343
+Epoch 3/50
+104/104 [==============================] - 0s 5ms/step - loss: 0.0015 - val_loss: 0.0342
+Epoch 4/50
+104/104 [==============================] - 0s 5ms/step - loss: 0.0012 - val_loss: 0.0336
+Epoch 5/50
+104/104 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 0.0341
+Epoch 6/50
+104/104 [==============================] - 0s 5ms/step - loss: 9.9637e-04 - val_loss: 0.0344
+Epoch 7/50
+104/104 [==============================] - 0s 5ms/step - loss: 9.4777e-04 - val_loss: 0.0348
+Epoch 8/50
+104/104 [==============================] - 0s 5ms/step - loss: 8.9477e-04 - val_loss: 0.0356
+Epoch 9/50
+104/104 [==============================] - 0s 5ms/step - loss: 8.6240e-04 - val_loss: 0.0362
+Epoch 10/50
+104/104 [==============================] - 1s 5ms/step - loss: 8.1547e-04 - val_loss: 0.0368
+Epoch 11/50
+104/104 [==============================] - 1s 5ms/step - loss: 7.4982e-04 - val_loss: 0.0374
+Epoch 12/50
+104/104 [==============================] - 1s 5ms/step - loss: 6.8978e-04 - val_loss: 0.0380
+Epoch 13/50
+104/104 [==============================] - 0s 5ms/step - loss: 6.7107e-04 - val_loss: 0.0385
+Epoch 14/50
+104/104 [==============================] - 1s 5ms/step - loss: 5.9636e-04 - val_loss: 0.0390
+26/26 [==============================] - 0s 2ms/step
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+26/26 [==============================] - 0s 1ms/step
+ABNB : 0.033622952845824665 0.14954882619898174 0.18336562612939392
+ABNB : 122.79724977949013 143.70486867043982 20.907618890949692
+Shape of X_train: (4646, 8, 1)
+Shape of X_test: (1162, 8, 1)
+Data Scaled DataFrame Shape: (5808, 9)
+Epoch 1/50
+146/146 [==============================] - 3s 7ms/step - loss: 8.3661e-05 - val_loss: 0.2094
+Epoch 2/50
+146/146 [==============================] - 1s 5ms/step - loss: 5.7802e-05 - val_loss: 0.1937
+Epoch 3/50
+146/146 [==============================] - 1s 5ms/step - loss: 4.7933e-05 - val_loss: 0.1191
+Epoch 4/50
+146/146 [==============================] - 1s 5ms/step - loss: 3.1195e-05 - val_loss: 0.0628
+Epoch 5/50
+146/146 [==============================] - 1s 5ms/step - loss: 1.7038e-05 - val_loss: 0.0649
+Epoch 6/50
+146/146 [==============================] - 1s 5ms/step - loss: 1.4729e-05 - val_loss: 0.0571
+Epoch 7/50
+146/146 [==============================] - 1s 5ms/step - loss: 1.0719e-05 - val_loss: 0.0684
+Epoch 8/50
+146/146 [==============================] - 1s 5ms/step - loss: 9.3359e-06 - val_loss: 0.0713
+Epoch 9/50
+146/146 [==============================] - 1s 5ms/step - loss: 9.9200e-06 - val_loss: 0.0708
+Epoch 10/50
+146/146 [==============================] - 1s 5ms/step - loss: 8.6286e-06 - val_loss: 0.0882
+Epoch 11/50
+146/146 [==============================] - 1s 5ms/step - loss: 8.0256e-06 - val_loss: 0.0801
+Epoch 12/50
+146/146 [==============================] - 1s 5ms/step - loss: 7.2610e-06 - val_loss: 0.0878
+Epoch 13/50
+146/146 [==============================] - 1s 5ms/step - loss: 6.3230e-06 - val_loss: 0.0766
+Epoch 14/50
+146/146 [==============================] - 1s 5ms/step - loss: 6.5211e-06 - val_loss: 0.0811
+Epoch 15/50
+  1/146 [..............................] - ETA: 0s - loss: 2.1068e-05
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+146/146 [==============================] - 1s 5ms/step - loss: 7.0804e-06 - val_loss: 0.0715
+Epoch 16/50
+146/146 [==============================] - 1s 5ms/step - loss: 5.3586e-06 - val_loss: 0.0725
+37/37 [==============================] - 0s 1ms/step
+37/37 [==============================] - 0s 1ms/step
+ENPH : 0.05713584960831035 0.18772716995017583 0.23903106410738825
+ENPH : 80.33454886513563 12.748178750170545 -67.58637011496509
+Shape of X_train: (6820, 8, 1)
+Shape of X_test: (1705, 8, 1)
+Data Scaled DataFrame Shape: (8525, 9)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+Epoch 1/50
+214/214 [==============================] - 3s 7ms/step - loss: 0.0015 - val_loss: 0.0012
+Epoch 2/50
+214/214 [==============================] - 1s 5ms/step - loss: 3.3947e-04 - val_loss: 0.0120
+Epoch 3/50
+214/214 [==============================] - 1s 5ms/step - loss: 2.4542e-04 - val_loss: 2.1016e-04
+Epoch 4/50
+214/214 [==============================] - 1s 5ms/step - loss: 2.1914e-04 - val_loss: 3.5474e-04
+Epoch 5/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.8834e-04 - val_loss: 0.0026
+Epoch 6/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.7325e-04 - val_loss: 7.7385e-04
+Epoch 7/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.4198e-04 - val_loss: 0.0011
+Epoch 8/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.3862e-04 - val_loss: 0.0020
+Epoch 9/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.1950e-04 - val_loss: 0.0031
+Epoch 10/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.2767e-04 - val_loss: 0.0055
+Epoch 11/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.0642e-04 - val_loss: 0.0109
+Epoch 12/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.0398e-04 - val_loss: 0.0062
+Epoch 13/50
+214/214 [==============================] - 1s 5ms/step - loss: 1.1572e-04 - val_loss: 0.0058
+ 1/54 [..............................] - ETA: 24s
+214/214 [==============================] - 1s 5ms/step - loss: 1.0398e-04 - val_loss: 0.0062
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+Shape of X_test: (2411, 8, 1)========] - 0s 1ms/stepep - loss: 1.0398e-04 - val_loss: 0.0062
+MAR : 0.00021015599052238098 0.011685941503978758 0.014496757931426633
+MAR : 191.19540430562822 90.07703710591086 -101.11836719971735
+Shape of X_train: (9642, 8, 1)
+Shape of X_test: (2411, 8, 1)========] - 0s 1ms/stepep - loss: 1.0398e-04 - val_loss: 0.0062
+Data Scaled DataFrame Shape: (12053, 9)
+Epoch 1/50
+
+302/302 [==============================] - 8s 20ms/step - loss: 0.0015 - val_loss: 0.0019
+Epoch 2/50
+
+302/302 [==============================] - 4s 13ms/step - loss: 1.8238e-04 - val_loss: 2.7472e-04
+Epoch 3/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.5377e-04 - val_loss: 0.0014
+Epoch 4/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.4135e-04 - val_loss: 5.1098e-04
+Epoch 5/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.2689e-04 - val_loss: 5.2925e-04
+Epoch 6/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.2061e-04 - val_loss: 0.0056
+Epoch 7/50
+302/302 [==============================] - 2s 5ms/step - loss: 1.1071e-04 - val_loss: 3.4031e-04
+Epoch 8/50
+302/302 [==============================] - 1s 5ms/step - loss: 9.4684e-05 - val_loss: 4.9479e-04
+Epoch 9/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.0731e-04 - val_loss: 0.0056
+Epoch 10/50
+302/302 [==============================] - 1s 5ms/step - loss: 9.1427e-05 - val_loss: 0.0028
+Epoch 11/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.0481e-04 - val_loss: 0.0041
+Epoch 12/50
+118/302 [==========>...................] - ETA: 0s - loss: 8.6944e-05
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+302/302 [==============================] - 1s 5ms/step - loss: 9.9964e-05 - val_loss: 0.0029
+76/76 [==============================] - 0s 1ms/step
+76/76 [==============================] - 0s 1ms/step
+HRL : 0.00027471510461587594 0.01423444646752729 0.01657453180683774
+HRL : 32.74855872407898 22.891206666827202 -9.85735205725178
+Shape of X_train: (7876, 8, 1)
+Shape of X_test: (1970, 8, 1)
+Data Scaled DataFrame Shape: (9846, 9)
+Epoch 1/50
+247/247 [==============================] - 4s 7ms/step - loss: 2.3803e-04 - val_loss: 0.0140
+Epoch 2/50
+247/247 [==============================] - 1s 5ms/step - loss: 3.9417e-05 - val_loss: 0.0093
+Epoch 3/50
+247/247 [==============================] - 1s 5ms/step - loss: 3.1019e-05 - val_loss: 0.0165
+Epoch 4/50
+247/247 [==============================] - 1s 5ms/step - loss: 2.3515e-05 - val_loss: 0.0088
+Epoch 5/50
+247/247 [==============================] - 1s 6ms/step - loss: 2.1328e-05 - val_loss: 0.0151
+Epoch 6/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.8308e-05 - val_loss: 0.0312
+Epoch 7/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.9341e-05 - val_loss: 0.0362
+Epoch 8/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.6766e-05 - val_loss: 0.0364
+Epoch 9/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.5130e-05 - val_loss: 0.0440
+Epoch 10/50
+247/247 [==============================] - 1s 6ms/step - loss: 1.5797e-05 - val_loss: 0.0483
+Epoch 11/50
+247/247 [==============================] - 2s 9ms/step - loss: 1.5870e-05 - val_loss: 0.0436
+Epoch 12/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.5108e-05 - val_loss: 0.0550
+Epoch 13/50
+247/247 [==============================] - 1s 5ms/step - loss: 1.3500e-05 - val_loss: 0.0517
+Epoch 14/50
+247/247 [==============================] - 2s 9ms/step - loss: 1.4976e-05 - val_loss: 0.0559
+62/62 [==============================] - 0s 1ms/step
+62/62 [==============================] - 0s 2ms/step
+IDXX : 0.008835335089751276 0.06115277360489381 0.09399646317681999
+IDXX : 424.78124835534203 79.73371018123515 -345.0475381741069
+Shape of X_train: (4821, 8, 1)
+Shape of X_test: (1206, 8, 1)
+Data Scaled DataFrame Shape: (6027, 9)
+Epoch 1/50
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+151/151 [==============================] - 3s 8ms/step - loss: 0.0286 - val_loss: 0.0019
+Epoch 2/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0039 - val_loss: 7.2421e-04
+Epoch 3/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0026 - val_loss: 3.5097e-04
+Epoch 4/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0026 - val_loss: 2.7980e-04
+Epoch 5/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0023 - val_loss: 4.7170e-04
+Epoch 6/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0021 - val_loss: 3.1161e-04
+Epoch 7/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0020 - val_loss: 7.0238e-04
+Epoch 8/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0018 - val_loss: 3.5948e-04
+Epoch 9/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0017 - val_loss: 2.7827e-04
+Epoch 10/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0016 - val_loss: 2.7382e-04
+Epoch 11/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0014 - val_loss: 3.4293e-04
+Epoch 12/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0015 - val_loss: 2.3196e-04
+Epoch 13/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0013 - val_loss: 2.8238e-04
+Epoch 14/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0013 - val_loss: 3.6059e-04
+Epoch 15/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0012 - val_loss: 3.7250e-04
+Epoch 16/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 3.2521e-04
+Epoch 17/50
+151/151 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 2.2705e-04
+Epoch 18/50
+151/151 [==============================] - 1s 5ms/step - loss: 9.8108e-04 - val_loss: 2.1694e-04
+Epoch 19/50
+151/151 [==============================] - 1s 5ms/step - loss: 9.0479e-04 - val_loss: 2.3402e-04
+Epoch 20/50
+151/151 [==============================] - 1s 5ms/step - loss: 8.4939e-04 - val_loss: 3.1923e-04
+Epoch 21/50
+151/151 [==============================] - 1s 5ms/step - loss: 8.3423e-04 - val_loss: 2.8480e-04
+Epoch 22/50
+151/151 [==============================] - 1s 5ms/step - loss: 7.9070e-04 - val_loss: 3.3939e-04
+Epoch 23/50
+151/151 [==============================] - 1s 5ms/step - loss: 6.7947e-04 - val_loss: 5.7609e-04
+Epoch 24/50
+151/151 [==============================] - 1s 5ms/step - loss: 7.0974e-04 - val_loss: 3.6200e-04
+Epoch 25/50
+151/151 [==============================] - 1s 5ms/step - loss: 6.3461e-04 - val_loss: 4.8543e-04
+Epoch 26/50
+151/151 [==============================] - 1s 5ms/step - loss: 6.5516e-04 - val_loss: 3.5087e-04
+Epoch 27/50
+151/151 [==============================] - 1s 5ms/step - loss: 5.8836e-04 - val_loss: 1.4355e-04
+Epoch 28/50
+151/151 [==============================] - 1s 5ms/step - loss: 5.5470e-04 - val_loss: 4.6054e-04
+Epoch 29/50
+151/151 [==============================] - 1s 5ms/step - loss: 5.3759e-04 - val_loss: 1.5344e-04
+Epoch 30/50
+151/151 [==============================] - 1s 5ms/step - loss: 5.2341e-04 - val_loss: 5.6644e-04
+Epoch 31/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.7527e-04 - val_loss: 2.2923e-04
+Epoch 32/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.6919e-04 - val_loss: 6.6266e-04
+Epoch 33/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.6077e-04 - val_loss: 6.0041e-04
+Epoch 34/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.3979e-04 - val_loss: 4.2970e-04
+Epoch 35/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.5279e-04 - val_loss: 4.7421e-04
+Epoch 36/50
+151/151 [==============================] - 1s 5ms/step - loss: 4.8792e-04 - val_loss: 1.1747e-04
+Epoch 37/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.8563e-04 - val_loss: 1.5284e-04
+Epoch 38/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.5512e-04 - val_loss: 4.5205e-04
+Epoch 39/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.9143e-04 - val_loss: 2.1999e-04
+Epoch 40/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.7688e-04 - val_loss: 8.9041e-05
+Epoch 41/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.5724e-04 - val_loss: 1.1519e-04
+Epoch 42/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.4066e-04 - val_loss: 1.5488e-04
+Epoch 43/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.7233e-04 - val_loss: 1.7062e-04
+Epoch 44/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.5223e-04 - val_loss: 9.6234e-05
+Epoch 45/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.3649e-04 - val_loss: 9.8895e-05
+Epoch 46/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.5862e-04 - val_loss: 6.6189e-04
+Epoch 47/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.7537e-04 - val_loss: 7.8616e-05
+Epoch 48/50
+151/151 [==============================] - 1s 5ms/step - loss: 3.6443e-04 - val_loss: 5.8490e-04
+Epoch 49/50
+ 97/151 [==================>...........] - ETA: 0s - loss: 3.1921e-04
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+151/151 [==============================] - 1s 5ms/step - loss: 3.3765e-04 - val_loss: 9.4127e-04
+Epoch 50/50
+151/151 [==============================] - 1s 6ms/step - loss: 3.3332e-04 - val_loss: 1.9766e-04
+38/38 [==============================] - 0s 1ms/step
+38/38 [==============================] - 0s 1ms/step
+KMI : 0.00019765677289953836 0.01197202784543795 0.014059045945566092
+KMI : 16.93792794998551 19.755547389689177 2.817619439703666
+Shape of X_train: (10746, 8, 1)
+Shape of X_test: (2687, 8, 1)
+Data Scaled DataFrame Shape: (13433, 9)
+Epoch 1/50
+336/336 [==============================] - 4s 6ms/step - loss: 6.1617e-04 - val_loss: 0.0029
+Epoch 2/50
+336/336 [==============================] - 2s 5ms/step - loss: 1.3168e-04 - val_loss: 0.0094
+Epoch 3/50
+336/336 [==============================] - 2s 5ms/step - loss: 9.5322e-05 - val_loss: 5.9213e-04
+Epoch 4/50
+336/336 [==============================] - 2s 5ms/step - loss: 8.0865e-05 - val_loss: 0.0046
+Epoch 5/50
+336/336 [==============================] - 2s 5ms/step - loss: 6.9848e-05 - val_loss: 0.0018
+Epoch 6/50
+336/336 [==============================] - 2s 5ms/step - loss: 6.1533e-05 - val_loss: 0.0031
+Epoch 7/50
+336/336 [==============================] - 2s 5ms/step - loss: 5.7326e-05 - val_loss: 0.0136
+Epoch 8/50
+336/336 [==============================] - 2s 5ms/step - loss: 5.3600e-05 - val_loss: 0.0097
+Epoch 9/50
+336/336 [==============================] - 2s 5ms/step - loss: 5.2315e-05 - val_loss: 0.0186
+Epoch 10/50
+336/336 [==============================] - 2s 5ms/step - loss: 4.8342e-05 - val_loss: 0.0229
+Epoch 11/50
+336/336 [==============================] - 2s 5ms/step - loss: 5.2933e-05 - val_loss: 0.0281
+Epoch 12/50
+336/336 [==============================] - 2s 5ms/step - loss: 4.6041e-05 - val_loss: 0.0506
+Epoch 13/50
+241/336 [====================>.........] - ETA: 0s - loss: 5.4855e-05
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+336/336 [==============================] - 2s 5ms/step - loss: 5.4330e-05 - val_loss: 0.0698
+84/84 [==============================] - 0s 1ms/step
+84/84 [==============================] - 0s 1ms/step
+SNA : 0.0005921303468792905 0.01621679762309061 0.02433372858563378
+SNA : 270.06530115691163 81.39884523898989 -188.66645591792172
+Shape of X_train: (4460, 8, 1)
+Shape of X_test: (1115, 8, 1)
+Data Scaled DataFrame Shape: (5575, 9)
+Epoch 1/50
+140/140 [==============================] - 3s 8ms/step - loss: 0.0096 - val_loss: 0.0506
+Epoch 2/50
+140/140 [==============================] - 1s 5ms/step - loss: 0.0028 - val_loss: 0.0361
+Epoch 3/50
+140/140 [==============================] - 1s 5ms/step - loss: 0.0017 - val_loss: 0.0062
+Epoch 4/50
+140/140 [==============================] - 1s 5ms/step - loss: 0.0013 - val_loss: 0.0052
+Epoch 5/50
+140/140 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 0.0086
+Epoch 6/50
+140/140 [==============================] - 1s 5ms/step - loss: 0.0010 - val_loss: 0.0039
+Epoch 7/50
+140/140 [==============================] - 1s 5ms/step - loss: 9.1746e-04 - val_loss: 0.0048
+Epoch 8/50
+140/140 [==============================] - 1s 5ms/step - loss: 8.7302e-04 - val_loss: 0.0061
+Epoch 9/50
+140/140 [==============================] - 1s 5ms/step - loss: 7.1028e-04 - val_loss: 0.0055
+Epoch 10/50
+140/140 [==============================] - 1s 5ms/step - loss: 7.5747e-04 - val_loss: 0.0097
+Epoch 11/50
+140/140 [==============================] - 1s 5ms/step - loss: 7.0180e-04 - val_loss: 0.0056
+Epoch 12/50
+140/140 [==============================] - 1s 5ms/step - loss: 6.0329e-04 - val_loss: 9.8908e-04
+Epoch 13/50
+140/140 [==============================] - 1s 5ms/step - loss: 5.4029e-04 - val_loss: 0.0016
+Epoch 14/50
+140/140 [==============================] - 1s 5ms/step - loss: 5.0843e-04 - val_loss: 0.0011
+Epoch 15/50
+140/140 [==============================] - 1s 5ms/step - loss: 4.3736e-04 - val_loss: 5.6638e-04
+Epoch 16/50
+140/140 [==============================] - 1s 5ms/step - loss: 4.0630e-04 - val_loss: 6.1844e-04
+Epoch 17/50
+140/140 [==============================] - 1s 5ms/step - loss: 3.7081e-04 - val_loss: 4.7279e-04
+Epoch 18/50
+140/140 [==============================] - 1s 5ms/step - loss: 3.2457e-04 - val_loss: 9.1157e-04
+Epoch 19/50
+140/140 [==============================] - 1s 5ms/step - loss: 3.3057e-04 - val_loss: 8.1899e-04
+Epoch 20/50
+140/140 [==============================] - 1s 5ms/step - loss: 2.7316e-04 - val_loss: 9.0231e-04
+Epoch 21/50
+140/140 [==============================] - 1s 5ms/step - loss: 2.5699e-04 - val_loss: 0.0012
+Epoch 22/50
+140/140 [==============================] - 1s 5ms/step - loss: 2.3090e-04 - val_loss: 0.0020
+Epoch 23/50
+140/140 [==============================] - 1s 5ms/step - loss: 1.9756e-04 - val_loss: 0.0012
+Epoch 24/50
+140/140 [==============================] - 1s 5ms/step - loss: 1.9366e-04 - val_loss: 0.0024
+Epoch 25/50
+140/140 [==============================] - 1s 5ms/step - loss: 1.6957e-04 - val_loss: 0.0017
+Epoch 26/50
+140/140 [==============================] - 1s 5ms/step - loss: 1.5686e-04 - val_loss: 0.0013
+Epoch 27/50
+140/140 [==============================] - 1s 5ms/step - loss: 1.4452e-04 - val_loss: 0.0029
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+35/35 [==============================] - 0s 1ms/step
+35/35 [==============================] - 0s 1ms/step
+NWS : 0.00047279387115918824 0.01599810441174481 0.02174382374742741
+NWS : 22.797832672777506 14.421666445157944 -8.376166227619562
+Shape of X_train: (9642, 8, 1)
+Shape of X_test: (2411, 8, 1)
+Data Scaled DataFrame Shape: (12053, 9)
+Epoch 1/50
+302/302 [==============================] - 4s 6ms/step - loss: 0.0021 - val_loss: 1.1446e-04
+Epoch 2/50
+302/302 [==============================] - 1s 5ms/step - loss: 2.9863e-04 - val_loss: 2.0448e-04
+Epoch 3/50
+302/302 [==============================] - 1s 5ms/step - loss: 2.4976e-04 - val_loss: 2.1644e-04
+Epoch 4/50
+302/302 [==============================] - 1s 5ms/step - loss: 2.2904e-04 - val_loss: 2.7225e-04
+Epoch 5/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.9557e-04 - val_loss: 7.7343e-04
+Epoch 6/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.7950e-04 - val_loss: 0.0028
+Epoch 7/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.6912e-04 - val_loss: 0.0020
+Epoch 8/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.6712e-04 - val_loss: 0.0047
+Epoch 9/50
+302/302 [==============================] - 2s 5ms/step - loss: 1.5626e-04 - val_loss: 0.0024
+Epoch 10/50
+302/302 [==============================] - 1s 5ms/step - loss: 1.5971e-04 - val_loss: 0.0060
+Epoch 11/50
+293/302 [============================>.] - ETA: 0s - loss: 1.4948e-04
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/1260045675.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+302/302 [==============================] - 1s 5ms/step - loss: 1.4921e-04 - val_loss: 0.0060
+76/76 [==============================] - 0s 1ms/step
+76/76 [==============================] - 0s 1ms/step
+AFL : 0.00011445899381521519 0.00687156624436163 0.010698551014750325
+AFL : 81.97000100000001 31.49575999596101 -50.474241004039
+Shape of X_train: (8844, 8, 1)
+Shape of X_test: (2212, 8, 1)
+Data Scaled DataFrame Shape: (11056, 9)
+Epoch 1/50
+277/277 [==============================] - 3s 6ms/step - loss: 0.0021 - val_loss: 8.6910e-04
+Epoch 2/50
+277/277 [==============================] - 1s 5ms/step - loss: 3.1732e-04 - val_loss: 7.3211e-04
+Epoch 3/50
+277/277 [==============================] - 1s 5ms/step - loss: 2.8159e-04 - val_loss: 0.0024
+Epoch 4/50
+277/277 [==============================] - 1s 5ms/step - loss: 2.4400e-04 - val_loss: 2.1698e-04
+Epoch 5/50
+277/277 [==============================] - 1s 5ms/step - loss: 2.2084e-04 - val_loss: 1.6879e-04
+Epoch 6/50
+277/277 [==============================] - 1s 5ms/step - loss: 2.2435e-04 - val_loss: 1.1471e-04
+Epoch 7/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.8252e-04 - val_loss: 0.0018
+Epoch 8/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.8190e-04 - val_loss: 4.9366e-04
+Epoch 9/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.7665e-04 - val_loss: 0.0033
+Epoch 10/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.7657e-04 - val_loss: 0.0021
+Epoch 11/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.6736e-04 - val_loss: 0.0032
+Epoch 12/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.6121e-04 - val_loss: 0.0038
+Epoch 13/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.5513e-04 - val_loss: 0.0053
+Epoch 14/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.5922e-04 - val_loss: 0.0044
+Epoch 15/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.4936e-04 - val_loss: 0.0054
+Epoch 16/50
+277/277 [==============================] - 1s 5ms/step - loss: 1.4563e-04 - val_loss: 0.0081
+70/70 [==============================] - 0s 1ms/step
+70/70 [==============================] - 0s 2ms/step
+BBY : 0.00011471375405418511 0.007726826651887545 0.010710450693326826
+BBY : 66.73929816880059 34.95313291749645 -31.78616525130414

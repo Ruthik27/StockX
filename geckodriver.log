@@ -18166,3 +18166,989 @@ UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadabl
 DevTools listening on ws://127.0.0.1:54592/devtools/browser/272d8e96-6bbc-4c89-872d-348c469461df
 1699225221565	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 1699225296070	Marionette	INFO	Stopped listening on port 54604
+1714803915269	geckodriver	INFO	Listening on 127.0.0.1:51298
+1714803915644	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofilez7gUlU"
+1714803930990	geckodriver	INFO	Listening on 127.0.0.1:51318
+1714803931515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileajWmiA"
+WebDriver BiDi listening on ws://127.0.0.1:51299
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51299/devtools/browser/d3a7077b-4cbe-46f0-9bc6-947856ba4f83
+1714803944884	geckodriver	INFO	Listening on 127.0.0.1:51359
+1714803945412	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileY1MDdX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714803945693	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714803945980	Marionette	INFO	Listening on port 51368
+WebDriver BiDi listening on ws://127.0.0.1:51360
+Read port: 51368
+1714803946180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51360/devtools/browser/e25b7493-dfa1-48e2-ba80-48e441398fb5
+1714803977263	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714804043408	geckodriver	INFO	Listening on 127.0.0.1:51473
+1714804043935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileDU7zUW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714804044250	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714804044609	Marionette	INFO	Listening on port 51482
+WebDriver BiDi listening on ws://127.0.0.1:51474
+Read port: 51482
+1714804044855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51474/devtools/browser/1e26c183-cdbf-40e0-925d-fdb4cdba22ed
+1714804075137	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3773: TypeError: this._windows[aWindow.__SSi] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714804226498	geckodriver	INFO	Listening on 127.0.0.1:51597
+1714804227019	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileV24s3W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714804227335	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714804227814	Marionette	INFO	Listening on port 51607
+WebDriver BiDi listening on ws://127.0.0.1:51598
+Read port: 51607
+1714804227946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51598/devtools/browser/22ac5430-3502-461e-bc9a-b6f6ed8cae33
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3773: TypeError: this._windows[aWindow.__SSi] is undefined
+1714804258080	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714804363121	geckodriver	INFO	Listening on 127.0.0.1:51768
+1714804363641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileb4qAmQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714804363916	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714804364251	Marionette	INFO	Listening on port 51776
+WebDriver BiDi listening on ws://127.0.0.1:51769
+Read port: 51776
+1714804364482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51769/devtools/browser/d13443c0-e39d-4c35-bfe5-8a19c14da9f8
+1714804365435	Marionette	INFO	Stopped listening on port 51776
+1714804378207	geckodriver	INFO	Listening on 127.0.0.1:51795
+1714804378735	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofiledURjV2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714804379010	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714804379299	Marionette	INFO	Listening on port 51803
+WebDriver BiDi listening on ws://127.0.0.1:51796
+Read port: 51803
+1714804379496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51796/devtools/browser/1b911fc4-53b9-4fb9-9419-a45be47f4568
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 6644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714804383501	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 3404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714804386873	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714804409032	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D, line 1: Script terminated by timeout at:
+F@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:9853
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:11098
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 77: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:77:882
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:672
+
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js, line 2: Script terminated by timeout at:
+extend@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:252037
+sendMessage@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:216976
+logPageHideEventNonPersisted@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:110678
+7360/mapToWrapperFunction/</e[t]@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212979
+runSafely@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:213746
+7360/publishEvents/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212836
+publishEvents@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212818
+dispatchEvent@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:211400
+3384/handlePersistedEvent/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:309969
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 3414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4175 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714804419337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 49: Script terminated by timeout at:
+M@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:941
+zf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:1337
+Tf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:55:257
+b@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:53:307
+
+JavaScript warning: https://m.media-amazon.com/images/I/115BTkNA0nL.js, line 1: Script terminated by timeout at:
+905/a.evaluateBTRCriteria/<@https://m.media-amazon.com/images/I/115BTkNA0nL.js:1:369
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1188465&d=2&cp=0&sc=1&rs=0&os=0, line 2: Script terminated by timeout at:
+ar@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1188465&d=2&cp=0&sc=1&rs=0&os=0:2:30983
+k@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1188465&d=2&cp=0&sc=1&rs=0&os=0:2:31151
+bb@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1188465&d=2&cp=0&sc=1&rs=0&os=0:2:35433
+B@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1188465&d=2&cp=0&sc=1&rs=0&os=0:2:32365
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714804452147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 5671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 4641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 77: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:77:882
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:672
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0, line 2: Script terminated by timeout at:
+ar@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:30983
+k@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:31151
+bb@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:35433
+B@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=A4649603-ADCC-49C5-8A68-50B17397EA19&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:32365
+
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js, line 2: Script terminated by timeout at:
+getDvObject@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:188514
+getFireOnlyImportantEvents@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:192869
+sendWaitingMessages@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:219236
+sendMessage@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:217129
+turnOn@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:246331
+4342/turnOnScriptDynamicFlag/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:110549
+logPageHideEventNonPersisted@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:110815
+7360/mapToWrapperFunction/</e[t]@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212979
+runSafely@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:213746
+7360/publishEvents/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212836
+publishEvents@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:212818
+dispatchEvent@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:211400
+3384/handlePersistedEvent/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:309969
+
+1714804486119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 1988 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714804487714	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 2775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://1691f04bc54d27423c0e3c5626bf5a66.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 24: ReferenceError: AdobeAn is not defined
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 77: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:77:882
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:672
+
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js, line 2: Script terminated by timeout at:
+3384/handlePersistedEvent/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:309985
+
+1714804520525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 6065 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 7426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714804529271	geckodriver	INFO	Listening on 127.0.0.1:52179
+1714804529797	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileG5GOOP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714804530069	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714804530351	Marionette	INFO	Listening on port 52188
+WebDriver BiDi listening on ws://127.0.0.1:52180
+Read port: 52188
+1714804530544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52180/devtools/browser/06273c22-8141-488b-86f3-d68f1aabba52
+1714804534310	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 4892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 4097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 5815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714804536183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714804560229	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 120: Script terminated by timeout at:
+Kj@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:120:71
+h.ca@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:124:1999
+Tf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:55:319
+b@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:53:307
+
+JavaScript warning: https://m.media-amazon.com/images/I/115BTkNA0nL.js, line 1: Script terminated by timeout at:
+905/a.evaluateBTRCriteria/<@https://m.media-amazon.com/images/I/115BTkNA0nL.js:1:369
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714804568804	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 2959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 5678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://12e853e1249e9446f66f2cbb78462cdd.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 18 > injectedScript, line 7: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AASg_aq3Sfm79ayG2gpd8e7h9cXGmhm9TfT9WtyNSQM.js line 2 > eval line 2760 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714851351069	geckodriver	INFO	Listening on 127.0.0.1:59200
+1714851351572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofilepbS8vX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714851351861	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714851352177	Marionette	INFO	Listening on port 59210
+WebDriver BiDi listening on ws://127.0.0.1:59201
+Read port: 59210
+1714851352392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59201/devtools/browser/99206bb5-814b-4d05-9903-1e5829664b42
+1714851356115	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714851356135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 7213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 5290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 6339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714851381114	Marionette	INFO	Stopped listening on port 59210
+JavaScript warning: https://cdn.doubleverify.com/dv-measurements5933.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://cdn.doubleverify.com/dv-measurements5933.js:2:262255
+
+JavaScript warning: https://91f27dc57708d3565ae350bf974f2e7b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript, line 18: Script terminated by timeout at:
+f2@https://91f27dc57708d3565ae350bf974f2e7b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:92030
+
+JavaScript warning: https://finance.yahoo.com/quote/AAPL/history, line 1048: Script terminated by timeout at:
+nrWrapper@https://finance.yahoo.com/quote/AAPL/history:1048:16850
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714851523228	geckodriver	INFO	Listening on 127.0.0.1:59410
+1714851523760	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileRKXyBM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714851524005	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714851524327	Marionette	INFO	Listening on port 59418
+WebDriver BiDi listening on ws://127.0.0.1:59411
+Read port: 59418
+1714851524612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59411/devtools/browser/251a5e3a-ab0d-42a7-aca0-bc74e1c5d8c6
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714851527856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=676489&moatClientLevel3=3129677&moatClientLevel4=6996187&moatClientSlicer1=3&moatClientSlicer2=1762378&zMoatAuctionID=3716465779098077664:1714851527921&zMoatAdReqDomain=yahoo.com, line 331: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 1556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714851530979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2024-05-04 15:38:51.544 firefox[24387:12109525] WARNING: AVCaptureDeviceTypeExternal is deprecated for Continuity Cameras. Please use AVCaptureDeviceTypeContinuityCamera and add NSCameraUseContinuityCameraDeviceType to your Info.plist.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_263_3_0/ebStdBanner.js, line 129: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714851555197	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714851593637	Marionette	INFO	Stopped listening on port 59418
+JavaScript warning: https://cdn.doubleverify.com/dv-measurements5933.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://cdn.doubleverify.com/dv-measurements5933.js:2:262255
+
+JavaScript warning: https://53a2155745fd3463640df86ff79f2904.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+f2@https://53a2155745fd3463640df86ff79f2904.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:92026
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852490174	geckodriver	INFO	Listening on 127.0.0.1:62064
+1714852490696	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileVc0tln"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852490945	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852491224	Marionette	INFO	Listening on port 62077
+WebDriver BiDi listening on ws://127.0.0.1:62065
+Read port: 62077
+1714852491417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62065/devtools/browser/f5d2c6e7-0435-49b8-9408-93e0fa391b91
+1714852494436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 5703 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852497124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=676489&moatClientLevel3=3129677&moatClientLevel4=6996187&moatClientSlicer1=3&moatClientSlicer2=1762378&zMoatAuctionID=1810202077869239314:1714852494450&zMoatAdReqDomain=yahoo.com, line 331: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2024-05-04 15:54:58.185 firefox[24599:12121733] WARNING: AVCaptureDeviceTypeExternal is deprecated for Continuity Cameras. Please use AVCaptureDeviceTypeContinuityCamera and add NSCameraUseContinuityCameraDeviceType to your Info.plist.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_263_3_0/ebStdBanner.js, line 129: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852509307	Marionette	INFO	Stopped listening on port 62077
+JavaScript warning: https://a508d1e5ff7bb3f6ba9874ef2c84f40a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+f2@https://a508d1e5ff7bb3f6ba9874ef2c84f40a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:92026
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852639830	geckodriver	INFO	Listening on 127.0.0.1:62859
+1714852640349	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileeGpYTf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852640588	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852640912	Marionette	INFO	Listening on port 62871
+WebDriver BiDi listening on ws://127.0.0.1:62860
+Read port: 62871
+1714852641125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62860/devtools/browser/c4f9b91c-1ce7-4263-a994-f3b87b450b01
+1714852643995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 5521 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 833 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 1043 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 4545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852648738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714852670616	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714852674748	Marionette	INFO	Stopped listening on port 62871
+JavaScript warning: https://d68698195350461f9b20d7d9b2a7163a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript, line 18: Script terminated by timeout at:
+f2@https://d68698195350461f9b20d7d9b2a7163a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:92030
+
+JavaScript warning: https://cdn.doubleverify.com/dv-measurements5933.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://cdn.doubleverify.com/dv-measurements5933.js:2:262255
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714852787114	geckodriver	INFO	Listening on 127.0.0.1:63700
+1714852787638	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileaSNwtv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852787888	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852788150	Marionette	INFO	Listening on port 63712
+Read port: 63712
+WebDriver BiDi listening on ws://127.0.0.1:63701
+1714852788361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63701/devtools/browser/ba367149-1ff2-4058-9481-e23f624cda08
+1714852791599	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 2045 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852794157	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714852836336	geckodriver	INFO	Listening on 127.0.0.1:64085
+1714852836866	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofilezNfcFY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852837112	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852837413	Marionette	INFO	Listening on port 64098
+WebDriver BiDi listening on ws://127.0.0.1:64086
+Read port: 64098
+1714852837627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64086/devtools/browser/53c2d3e0-ef1d-4d2d-a805-0dae6987dba7
+1714852840698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 6737 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852842676	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714852860976	Marionette	INFO	Stopped listening on port 64098
+JavaScript warning: https://d4213415b9423b9164d224acea95aae0.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript, line 18: Script terminated by timeout at:
+f2@https://d4213415b9423b9164d224acea95aae0.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:92030
+
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:258612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714852919323	geckodriver	INFO	Listening on 127.0.0.1:64624
+1714852919845	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileBqngrI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852920085	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852920397	Marionette	INFO	Listening on port 64640
+WebDriver BiDi listening on ws://127.0.0.1:64625
+Read port: 64640
+1714852920632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64625/devtools/browser/21c484c1-0d7b-4007-97c9-97815b95db3b
+1714852924337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 4740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852927440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714852944601	Marionette	INFO	Stopped listening on port 64640
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js, line 2: Script terminated by timeout at:
+2478/runSafelyWhenInvoked/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements5877.js:2:258612
+
+JavaScript warning: https://1cda782ee3d71a05c2c1c30e7090a058.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript, line 18: Script terminated by timeout at:
+f2@https://1cda782ee3d71a05c2c1c30e7090a058.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:92030
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714852968311	geckodriver	INFO	Listening on 127.0.0.1:65089
+1714852968837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileSFYdR2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714852969087	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714852969377	Marionette	INFO	Listening on port 65101
+WebDriver BiDi listening on ws://127.0.0.1:65090
+Read port: 65101
+1714852969571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65090/devtools/browser/3a5e484f-ec4f-4456-82a3-b4d4dd0f6c7f
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 5378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852973783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1714852973802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=676489&moatClientLevel3=3129677&moatClientLevel4=6996187&moatClientSlicer1=3&moatClientSlicer2=1762378&zMoatAuctionID=4381693228903221223:1714852973119&zMoatAdReqDomain=yahoo.com, line 331: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_263_3_0/ebStdBanner.js, line 129: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2024-05-04 16:02:57.053 firefox[25097:12132351] WARNING: AVCaptureDeviceTypeExternal is deprecated for Continuity Cameras. Please use AVCaptureDeviceTypeContinuityCamera and add NSCameraUseContinuityCameraDeviceType to your Info.plist.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 77: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:77:882
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:672
+
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://f8b9d0f32a3ca603bc83ca2680bdddfb.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+f3@https://f8b9d0f32a3ca603bc83ca2680bdddfb.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:93306
+Oe/a<@https://cdn.js7k.com/rq/iv/inside.js:1:17044
+Oe@https://cdn.js7k.com/rq/iv/inside.js:1:17235
+Ye@https://cdn.js7k.com/rq/iv/inside.js:1:23750
+Vi@https://cdn.js7k.com/rq/iv/inside.js:1:41389
+Ii@https://cdn.js7k.com/rq/iv/inside.js:1:41451
+_fcd24e56_d699_3b30_39f5_478cafd314e3_219ea107/dl/this.Ga/<@https://f8b9d0f32a3ca603bc83ca2680bdddfb.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:50097
+dK/<@https://f8b9d0f32a3ca603bc83ca2680bdddfb.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:77959
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714852999113	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js, line 24: Script terminated by timeout at:
+Pk.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:238544
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:201040
+vg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:29762
+_.tx/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:140629
+_.V.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:201217
+Pk.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:238486
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:201040
+LL@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:24:272404
+CR/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js:32:53972
+dl/this.Ga/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:50050
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77916
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 5195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 3482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853008728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 5674 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 1663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853020770	Marionette	INFO	Stopped listening on port 65101
+JavaScript warning: https://594eeb8a624afa0148a3ae18aad2a334.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+dI/this.Z@https://594eeb8a624afa0148a3ae18aad2a334.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:77611
+dK/<@https://594eeb8a624afa0148a3ae18aad2a334.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:77940
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 14: Script terminated by timeout at:
+v@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:14:398
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:595
+
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 12: Script terminated by timeout at:
+a._setupTick@https://code.createjs.com/1.0.0/createjs.min.js:12:7184
+a._handleTimeout@https://code.createjs.com/1.0.0/createjs.min.js:12:6757
+
+1714853024488	geckodriver	INFO	Listening on 127.0.0.1:49192
+1714853025015	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofiley5l3Hu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714853025255	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714853025552	Marionette	INFO	Listening on port 49204
+WebDriver BiDi listening on ws://127.0.0.1:49193
+Read port: 49204
+1714853025755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49193/devtools/browser/370c4d6f-904a-4fd2-8eca-62a4613e09e7
+1714853029536	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 1627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 7298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s3.amazonaws.com/stackadapt_public/js/saurl.js, line 24: SecurityError: Permission denied to get property "href" on cross-origin object
+1714853032539	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 77: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:77:882
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:672
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853055279	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3773: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+1714853061295	Marionette	INFO	Stopped listening on port 49204
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1714853561434	geckodriver	INFO	Listening on 127.0.0.1:51767
+1714853561955	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofile0RfFUc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714853562196	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714853562453	Marionette	INFO	Listening on port 51780
+WebDriver BiDi listening on ws://127.0.0.1:51768
+Read port: 51780
+1714853562651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51768/devtools/browser/75d8f188-c552-4858-8b23-32fed4fbde3c
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853563990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 7512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714853584477	geckodriver	INFO	Listening on 127.0.0.1:52098
+1714853585003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofileXPz474"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714853585259	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714853585502	Marionette	INFO	Listening on port 52110
+WebDriver BiDi listening on ws://127.0.0.1:52099
+Read port: 52110
+1714853585704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52099/devtools/browser/114540c4-54ff-476e-b011-365831e424dd
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853587330	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853617197	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dI/this.Z@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77568
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77897
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://finance.yahoo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://finance.yahoo.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853620895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 585 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c.betrad.com/ba.html?r170201, line 5: SecurityError: The operation is insecure.
+JavaScript error: https://s0.2mdn.net/sadbundle/17078842484249777225/Cosentyx_AnimatedBanner_285086_HTML_728x90/index.html?ev=01_250, line 634: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 2619 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714853643417	Marionette	INFO	Stopped listening on port 52110
+JavaScript warning: https://b3e173aacd418db6b351402fb14cd01a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+f2@https://b3e173aacd418db6b351402fb14cd01a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:92026
+
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 13: Script terminated by timeout at:
+b.enableMouseOver/this._mouseOverIntervalID<@https://code.createjs.com/1.0.0/createjs.min.js:13:15615
+
+JavaScript warning: https://finance.yahoo.com/quote/AAPL/history, line 1048: Script terminated by timeout at:
+nrWrapper@https://finance.yahoo.com/quote/AAPL/history:1048:16850
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714854799350	geckodriver	INFO	Listening on 127.0.0.1:57244
+1714854799871	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofilepEC2EB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714854800124	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714854800399	Marionette	INFO	Listening on port 57263
+WebDriver BiDi listening on ws://127.0.0.1:57245
+Read port: 57263
+1714854800599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57245/devtools/browser/96350948-8db3-4037-a43f-5417cfaf29e7
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714854802761	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 7748 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dI/this.Z@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77568
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77897
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:11098
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 5757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://2dc625065d4481d5eb44f3ccbf65b02b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_2ee91b2c_19ee_2ce0_3d81_0aa488b0ca16_d38c77cf/dK/<@https://2dc625065d4481d5eb44f3ccbf65b02b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77932
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D, line 1: Script terminated by timeout at:
+F@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:9698
+u@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:9919
+ay@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:13170
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:11328
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://408e1d391e57620c6431fc6698d124cf.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_0b65a874_de53_b5bc_bbbc_b0f021fdc66e_75d58516/dK/<@https://408e1d391e57620c6431fc6698d124cf.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77932
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 2680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714854830153	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://996e138d7d020e2756c2e22f9f37e507.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_a060a3c8_69c6_a6f9_26c5_e00561c720cd_88d00e36/dK/<@https://996e138d7d020e2756c2e22f9f37e507.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77932
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22le6L6V92NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0hObVozZ2pEamt5Z2hJa09ySGJ6MER6SE01UWt2NFZhenVXQWdubE5CSjl3a1BzJTJCeUNnOXRyODBENWRpdmxpNW9nQzZRSGJYVTBxSEIxd1RMNkh6S1dZTXAxWDQ2USUyQiUyRk1YZlRPVW9rMGUyQkZPJTJGd1FtUWJ1eXc5aSUyRjUxUmJIUWclM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.7085548152015297%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22le6L6V92NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0hObVozZ2pEamt5Z2hJa09ySGJ6MER6SE01UWt2NFZhenVXQWdubE5CSjl3a1BzJTJCeUNnOXRyODBENWRpdmxpNW9nQzZRSGJYVTBxSEIxd1RMNkh6S1dZTXAxWDQ2USUyQiUyRk1YZlRPVW9rMGUyQkZPJTJGd1FtUWJ1eXc5aSUyRjUxUmJIUWclM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.7085548152015297%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22le6L6V92NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0hObVozZ2pEamt5Z2hJa09ySGJ6MER6SE01UWt2NFZhenVXQWdubE5CSjl3a1BzJTJCeUNnOXRyODBENWRpdmxpNW9nQzZRSGJYVTBxSEIxd1RMNkh6S1dZTXAxWDQ2USUyQiUyRk1YZlRPVW9rMGUyQkZPJTJGd1FtUWJ1eXc5aSUyRjUxUmJIUWclM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.7085548152015297%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22le6L6V92NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0hObVozZ2pEamt5Z2hJa09ySGJ6MER6SE01UWt2NFZhenVXQWdubE5CSjl3a1BzJTJCeUNnOXRyODBENWRpdmxpNW9nQzZRSGJYVTBxSEIxd1RMNkh6S1dZTXAxWDQ2USUyQiUyRk1YZlRPVW9rMGUyQkZPJTJGd1FtUWJ1eXc5aSUyRjUxUmJIUWclM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.7085548152015297%22}:13:3642
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+d@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:13094
+e0/</<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:91124
+_.dg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:160819
+RI.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:229898
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201040
+kQ.prototype.I/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:32:9066
+_.V.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201217
+kQ.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:32:8806
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201040
+vg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:29762
+_.tx/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:140629
+_.V.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201217
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201040
+vg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:29762
+_.tx/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:140629
+_.V.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201217
+Pk.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:238486
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201040
+LL@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:272404
+CR/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:32:53972
+dl/this.Ga/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:50050
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77916
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 79: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:392
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:833
+n.Di@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ji/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Qa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ji/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+gh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Pa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+gh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+gh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Pa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+gh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+_ff1d2be8_c2e0_b083_0e26_5f0c14015bb4_36c6fc2f/dl/this.Ga/<@https://c23003a4c4046f0ee5e1692925615006.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:50097
+_ff1d2be8_c2e0_b083_0e26_5f0c14015bb4_36c6fc2f/dK/<@https://c23003a4c4046f0ee5e1692925615006.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77963
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https%3A%2F%2Fpbs.yahoo.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D0%26gdpr_consent%3D%26gpp%3DDBAA%26gpp_sid%3D-1%26f%3Db%26uid%3D:1:11098
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22yaT84192NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0pLUHNyWkVLQ0pkRFVFSlM2OHBtNlNoVXRrclZpaml5UlRQaHc3TEYwMU4wS1Y1RTdjVUgxczA4b2ZDZ1pDdG03WXMxc3ZoJTJGNnclMkJwbXQ0eDdyWk40YXV4bTdtQ2YxTFNNck55REFBQlExS3RGRFRjVDBXMm92OVFUeHBTanpza0ElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5514205343876761%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22yaT84192NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0pLUHNyWkVLQ0pkRFVFSlM2OHBtNlNoVXRrclZpaml5UlRQaHc3TEYwMU4wS1Y1RTdjVUgxczA4b2ZDZ1pDdG03WXMxc3ZoJTJGNnclMkJwbXQ0eDdyWk40YXV4bTdtQ2YxTFNNck55REFBQlExS3RGRFRjVDBXMm92OVFUeHBTanpza0ElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5514205343876761%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22yaT84192NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0pLUHNyWkVLQ0pkRFVFSlM2OHBtNlNoVXRrclZpaml5UlRQaHc3TEYwMU4wS1Y1RTdjVUgxczA4b2ZDZ1pDdG03WXMxc3ZoJTJGNnclMkJwbXQ0eDdyWk40YXV4bTdtQ2YxTFNNck55REFBQlExS3RGRFRjVDBXMm92OVFUeHBTanpza0ElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5514205343876761%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22yaT84192NVcyY0RKYTRoME1sVyUyQlNJRG1Pa0pLUHNyWkVLQ0pkRFVFSlM2OHBtNlNoVXRrclZpaml5UlRQaHc3TEYwMU4wS1Y1RTdjVUgxczA4b2ZDZ1pDdG03WXMxc3ZoJTJGNnclMkJwbXQ0eDdyWk40YXV4bTdtQ2YxTFNNck55REFBQlExS3RGRFRjVDBXMm92OVFUeHBTanpza0ElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5514205343876761%22}:13:3642
+
+JavaScript warning: https://cdn.revjet.com/~cdn/JS/03/sync.html?origin=https%3A%2F%2Fc23003a4c4046f0ee5e1692925615006.safeframe.googlesyndication.com, line 16: Script terminated by timeout at:
+p@https://cdn.revjet.com/~cdn/JS/03/sync.html?origin=https%3A%2F%2Fc23003a4c4046f0ee5e1692925615006.safeframe.googlesyndication.com:16:56
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-16243941%3A1714854838962515&access_type=online&client_id=860033281504.apps.googleusercontent.com&ddm=0&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Fchallenge%2Ftpa%2Fredirect&response_type=code&scope=openid+email+profile&service=lso&state=acrumb%3DVpGhYNEd%7Cdisplay%3Dlogin%7CauthMechanism%3Dprimary%7CsessionIndex%3DQQ--%7Cpspid%3D794200015%7Cactivity%3Ddirect-nav&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMpAOhb9V1rHiM5oBS4xctM6Kijq_rHF87bA-8XrC3DlG8x8unp9HM_fCbeA-xGA1AJTKvRxKw8xYCvnLhl5_RfK4ZpY9Wqebu3eD--W8o-fYTjomK0ud80pr-dKhsZMI8uUTcil7EFlXJ5P2W5jk3V38lQZJb8Qxwq60yFHtCVrpOL9wAlUi8t5pzAD2-7fukXnGbyReN5BOuSQonwx4EvPAaiHG7ySJ6vhxINXLJdOsg0cpaRvcOK5A1u5LwHvkYR5cAresDZJKNLBPgRH9ywVow1qI2lhzJ2r8FAZpaVN_DjEO-qOcOCDbAaa-viVRpUoY1aT1qXEMpw-yCtW1KjvtAlMWxu4KoUZPp9AcqbRhWj2-M3UpghFinHtQXVENELIeNEQ-T_zNICzqGvgkHZZBPQRm8ubBeNSF98bVtKAndG5L4%26flowName%3DGeneralOAuthFlow%26as%3DS-16243941%253A1714854838962515%26client_id%3D860033281504.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Flogin.yahoo.com&rart=ANgoxccui9Gc4wdv8ZZnFxlFy9xsuSRgWsTQekYtGVdSkumkYR99XnvYUDpunKEwjU5G6DJ4KZ4GRwzR2OYV8RvNAcfhai9SM31DDFbt5dAIjy43Ca-qjYM line 202 > injectedScript line 2 > eval line 3431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3773: TypeError: this._windows[aWindow.__SSi] is undefined
+1714854855356	Marionette	INFO	Stopped listening on port 57263
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1714855044796	geckodriver	INFO	Listening on 127.0.0.1:58713
+1714855045321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofilezk0fDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714855045569	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714855045816	Marionette	INFO	Listening on port 58725
+WebDriver BiDi listening on ws://127.0.0.1:58714
+Read port: 58725
+1714855046026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58714/devtools/browser/4bdc827e-5187-4eb6-859a-375be8d63b2e
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855047932	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 1749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dI/this.Z@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77568
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77897
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 46: Script terminated by timeout at:
+Ra/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:578
+Ra@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:552
+Sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:419
+ji/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:833
+n.Di@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ji/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Qa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ji/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+gh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Pa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+gh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+gh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Pa.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+gh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+_3f428f39_5f68_e967_38d5_2d3c3a093c42_1d2fe545/dl/this.Ga/<@https://25e84dbdfce88be54684e1b782728f7d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:50097
+_3f428f39_5f68_e967_38d5_2d3c3a093c42_1d2fe545/dK/<@https://25e84dbdfce88be54684e1b782728f7d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77963
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293, line 24: Script terminated by timeout at:
+vg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:29732
+_.tx/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:140629
+_.V.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201217
+Pk.prototype.A@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:238486
+_.V.prototype.ya@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:201040
+LL@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:24:272404
+CR/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202404300101/pubads_impl.js?cb=31083293:32:53972
+dl/this.Ga/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:50050
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77916
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+F@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9698
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://3191df7bb3ad420943295c51949203e3.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 18 > injectedScript, line 28: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 5111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855075588	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 7756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 4186 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 4871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855095765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 3692 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855119503	Marionette	INFO	Stopped listening on port 58725
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714855127091	geckodriver	INFO	Listening on 127.0.0.1:59418
+1714855127615	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/rust_mozprofile8X9kNJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714855127856	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1714855128154	Marionette	INFO	Listening on port 59430
+WebDriver BiDi listening on ws://127.0.0.1:59419
+Read port: 59430
+1714855128351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59419/devtools/browser/e167a107-fac6-41d2-bb28-7a2125187339
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855130099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 6571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5083983729831423%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5083983729831423%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=login.yahoo.com&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22yahoo.net%22,%22topUrl%22:%22login.yahoo.com%22,%22version%22:144,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.5083983729831423%22}:13:3642
+
+JavaScript warning: https://1bb20cecbe0a1009b7871ca112a6763a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_3d28d2d6_a27d_8076_da1f_b475ece7473c_48116066/dK/<@https://1bb20cecbe0a1009b7871ca112a6763a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77932
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https://pbs.yahoo.com/setuid?bidder=pubmatic&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=-1&f=b&uid=, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https://pbs.yahoo.com/setuid?bidder=pubmatic&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=-1&f=b&uid=:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https://pbs.yahoo.com/setuid?bidder=pubmatic&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=-1&f=b&uid=:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=1YNN&predirect=https://pbs.yahoo.com/setuid?bidder=pubmatic&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=-1&f=b&uid=:1:11098
+
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/ccf4ac6d2282a4fc327b846b7aedcdaa2a7d4014/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 1691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+dK/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:77885
+
+JavaScript warning: https://5cb97cee51b84e38e4bc602cf81c8faf.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_33c1a824_9d6e_d245_fa4f_28167c85473d_4f798e2d/dK/<@https://5cb97cee51b84e38e4bc602cf81c8faf.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:77932
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+u@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:9954
+ay@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:12903
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:11328
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 3823 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 987 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 2263 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714855157894	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=133799&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/feg8rL66UTsTrrlS9w_iUH8JqR_kCfLFdi2W6wljJCU.js line 2 > eval line 4949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/thetradedeskv275874568748/moatad.js#moatClientLevel1=ea0izqu&moatClientLevel2=jsu5xt8&moatClientLevel3=d58t8sn&moatClientSlicer1=finance.yahoo.com&zMoatImpressionId=652059f7-2127-45ae-a39c-76df5f834a1e&zMoatCachebuster=822033&zMoatPartnerID=s8sngq6&zMoatViewType=0&zMoatCreative=e1q1jba7&zMoatDealID=&zMoatSupplyVendor=casale&zMoatSite=finance.yahoo.com&zMoatPublisherID=208386&moatClientLevel4=https%3A%2F%2Fenduser.adsrvr.org%2Fenduser%2Fpie%2F%3Fpie%3D20%26vet%3DVIEWABILITY_EVENT_TYPE%26rtb%3DdD0xJmlpZD02NTIwNTlmNy0yMTI3LTQ1YWUtYTM5Yy03NmRmNWY4MzRhMWUmY3JpZD1lMXExamJhNyZ3cD0ke0FVQ1RJT05fUFJJQ0U6SUVYfSZhaWQ9MSZ3cGM9VVNEJnNmZT0xODZlMWQwNiZwdWlkPSZiZGM9MjImcGlkPXM4c25ncTYmYWc9ZDU4dDhzbiZhZHY9ZWEwaXpxdSZicD0zJmNmPTY0NzQ3MzAmZnE9MCZ0ZF9zPWZpbmFuY2UueWFob28uY29tJnJjYXRzPWpiYSZtc3RlPSZtZmxkPTImbXNzaT0mbWZzaT0mdWhvdz0xNjAmYWdzYT0mcmd6PTMwNjA2JnN2YnR0ZD0xJmR0PVBDJm9zZj1PU1gmb3M9T3RoZXImYnI9RmlyZWZveCZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPTIwODM4NiZkaWQ9JnJjeHQ9T3RoZXImbGF0PTMzLjk1ODgwMCZsb249LTgzLjQzODQwMCZ0bXBjPTIzLjA4MDAwMDAwMDAwMDA0JmRhaWQ9JnZwPTAmb3NpPSZvc3Y9JmJmZmk9NDEmbWs9QXBwbGUmdGVzdGlkPTFiMWElN0NkYW0lN0NpYXZjMSUyMCZjPUNnMVZibWwwWldRZ1UzUmhkR1Z6RWdkSFpXOXlaMmxoR2dNMU1qUWlCa0YwYUdWdWN6Z0JVQXVBQVFHSUFRR1FBUUd3QVFDNkFRUUlPaGdFa2dJYmRYTmZlV1pwYmw5eGRXOTBaVjlrZEY5MGIzQmZZMlZ1ZEdWeTJBS3dDZUFDckFMNEFnR0FBd0tJQXdPUUF3R1lBd0tnQXhlNEE1dmxCTUlERk5hVFRFWkFYNHE1SXN6RUVndS1kUTFQcTRXaDBBTUEyZ01FQ0ZNWUJKb0VCM2x3Y1hReWRtNC4mZHVyPUNqZ0tIbU5vWVhKblpTMWhiR3hIY21Gd1pYTm9iM1JDY21GdVpGTmhabVYwZVNJV0NQYl9fX19fX19fX193RVNDV2R5WVhCbGMyaHZkQW9kQ2dkemMyRmpkelo0RUpDZ0FpSU9DSlctczZrQkVnUnViMjVsTUFFS1JBb3BZMmhoY21kbExXRnNiRVJwYzNCc1lYbFdhV1YzWVdKcGJHbDBlVUpwWkVGa2FuVnpkRzFsYm5RaUZ3aWFfX19fX19fX19fOEJFZ3B4TFdGc2JHbGhibU5sQ2pVS0htTm9ZWEpuWlMxdFlYaFFaV1Z5TXpsRGRYTjBiMjFEWVhSbFoyOXllU0lUQ1AzX19fX19fX19fX3dFU0JuQmxaWEl6T1FvX0NpSmphR0Z5WjJVdFlXeHNSRzkxWW14bFZtVnlhV1o1UW05MFFYWnZhV1JoYm1ObEloa0k1X19fX19fX19fX19BUklNWkc5MVlteGxkbVZ5YVdaNUNrZ0tJV05vWVhKblpTMWhiR3hOYjJGMFZtbGxkMkZpYVd4cGRIbFVjbUZqYTJsdVp5SWpDS1hfX19fX19fX19fd0VTRG0xdllYUXRjbVZ3YjNKMGFXNW5LZ1lJd0lROUdBd0tKd29RWTJoaGNtZGxMV0ZzYkVKeVlXNWphQ0lUQ05uLV9fX19fX19fX3dFU0JtSnlZVzVqYUJDUW9BSXlKRGt5T1RFME56WmhMV1l5TWpRdE5EUmhZaTA0TVRaakxUZG1PV0psTVdJMll6TTVOVGdCJmNycmVscj0mZnBhPTY1OSZwY209MyZzYWlkPWNiZjI3MzViLTc1YmMtNGI4Yi05MjI3LWNiZGY4YWQ4ZmY2OSZpY3Q9VW5rbm93biZhdWN0PTEmdXNfcHJpdmFjeT0xWU5OJmltPTEmbWM9MmFlY2VmMDEtY2UxZi00N2ZmLTg2ZmYtODE1MzMzY2Y2YmQ3JmFicj1lMGRiZDk0NC1mN2Q5LTRmNDYtOGQ2NS1lMDhkYzdmOTdlMDUmdGFpbD0xJnN2PWNhc2FsZSZ0YWlsPTE., line 336: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 96: Script terminated by timeout at:
+Gd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:96:601
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LF6GlBc8FdRmh1ghga_jzKGpJ2-E3lKlb0xU_AfEn7g.js line 2 > eval line 4809 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGg91BhL6Bhk3qTAPqmblqNZdzujbVjDoJfr3h8Q3EY.js line 2 > eval line 5613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: aWindow is null
+JavaScript warning: https://finance.yahoo.com/quote/AAPL/history, line 1054: Script terminated by timeout at:
+nrWrapper@https://finance.yahoo.com/quote/AAPL/history:1054:16850
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 49: Script terminated by timeout at:
+M@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:941
+zf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:1337
+Tf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:55:257
+b@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:53:307
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

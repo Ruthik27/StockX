@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-05-05T22:26:32.879414",
+    "startedAt": "2024-05-05T22:26:28.785697",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "single_stock/single.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/ruthikkale/Documents/GitHub/StockX",
+    "git": {
+        "remote": "https://github.com/Ruthik27/StockX.git",
+        "commit": "7db92324514b7edc43f1de5b497c620d0c4d0ac0"
+    },
+    "email": "62241739+Ruthik27@users.noreply.github.com",
+    "host": "Ruthiks-MacBook-Air.local",
+    "username": "ruthikkale",
+    "executable": "/Users/ruthikkale/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 206.29620742797852
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

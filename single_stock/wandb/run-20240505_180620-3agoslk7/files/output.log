@@ -1,0 +1,32 @@
+VLTO
+Epoch 1/50
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_6234/827043265.py:81: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_6234/827043265.py:82: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/sklearn/preprocessing/_data.py:480: RuntimeWarning: All-NaN slice encountered
+  data_min = np.nanmin(X, axis=0)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/sklearn/preprocessing/_data.py:481: RuntimeWarning: All-NaN slice encountered
+  data_max = np.nanmax(X, axis=0)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+1/1 [==============================] - 2s 2s/step - loss: nan - val_loss: nan
+Epoch 2/50
+1/1 [==============================] - 0s 19ms/step - loss: nan - val_loss: nan
+Epoch 3/50
+1/1 [==============================] - 0s 17ms/step - loss: nan - val_loss: nan
+Epoch 4/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 5/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 6/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 7/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 8/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 9/50
+1/1 [==============================] - 0s 18ms/step - loss: nan - val_loss: nan
+Epoch 10/50
+1/1 [==============================] - 0s 20ms/step - loss: nan - val_loss: nan
+1/1 [==============================] - 0s 365ms/step
+1/1 [==============================] - 0s 10ms/step

@@ -1,0 +1,99 @@
+Data for VLTO is empty after dropping NaN values. Skipping this stock.
+X_train shape: (2128, 8, 1)
+y_train shape: (2128,)
+X_test shape: (532, 8, 1)
+y_test shape: (532,)
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+67/67 [==============================] - 2s 11ms/step - loss: 0.0161 - val_loss: 0.0016
+Epoch 2/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0018 - val_loss: 0.0011
+Epoch 3/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0016 - val_loss: 0.0010
+Epoch 4/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0014 - val_loss: 0.0017
+Epoch 5/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0012 - val_loss: 2.9006e-04
+Epoch 6/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0011 - val_loss: 2.0516e-04
+Epoch 7/50
+67/67 [==============================] - 0s 5ms/step - loss: 0.0010 - val_loss: 0.0013
+Epoch 8/50
+67/67 [==============================] - 0s 5ms/step - loss: 9.1469e-04 - val_loss: 0.0012
+Epoch 9/50
+67/67 [==============================] - 0s 5ms/step - loss: 8.3076e-04 - val_loss: 0.0010
+Epoch 10/50
+67/67 [==============================] - 0s 5ms/step - loss: 8.8472e-04 - val_loss: 2.6017e-04
+Epoch 11/50
+67/67 [==============================] - 0s 5ms/step - loss: 8.4003e-04 - val_loss: 1.2807e-04
+Epoch 12/50
+67/67 [==============================] - 0s 5ms/step - loss: 8.4616e-04 - val_loss: 3.2368e-04
+Epoch 13/50
+67/67 [==============================] - 0s 5ms/step - loss: 8.9930e-04 - val_loss: 1.4569e-04
+Epoch 14/50
+67/67 [==============================] - 0s 5ms/step - loss: 7.6460e-04 - val_loss: 2.7364e-04
+Epoch 15/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.8422e-04 - val_loss: 5.8438e-04
+Epoch 16/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.8775e-04 - val_loss: 8.2884e-04
+Epoch 17/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.6653e-04 - val_loss: 6.3535e-04
+Epoch 18/50
+67/67 [==============================] - 0s 5ms/step - loss: 7.2141e-04 - val_loss: 2.3203e-04
+Epoch 19/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.4272e-04 - val_loss: 3.1847e-04
+Epoch 20/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.1348e-04 - val_loss: 0.0019
+Epoch 21/50
+67/67 [==============================] - 0s 5ms/step - loss: 6.7674e-04 - val_loss: 3.2741e-04
+17/17 [==============================] - 0s 1ms/step
+17/17 [==============================] - 0s 1ms/step
+ZTS : 0.00012807346087975223 0.00855827850079823 0.011316954576199034
+ZTS : 162.27327064448275 201.54596096295793 39.272690318475185
+Data for ZTS appended successfully.
+X_train shape: (4445, 8, 1)
+y_train shape: (4445,)
+X_test shape: (1112, 8, 1)
+y_test shape: (1112,)
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+139/139 [==============================] - 3s 8ms/step - loss: 0.0093 - val_loss: 8.6920e-04
+Epoch 2/50
+139/139 [==============================] - 1s 5ms/step - loss: 0.0019 - val_loss: 3.9451e-04
+Epoch 3/50
+139/139 [==============================] - 1s 5ms/step - loss: 0.0014 - val_loss: 0.0023
+Epoch 4/50
+139/139 [==============================] - 1s 5ms/step - loss: 0.0012 - val_loss: 3.8532e-04
+Epoch 5/50
+139/139 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 5.8617e-04
+Epoch 6/50
+139/139 [==============================] - 1s 5ms/step - loss: 8.8523e-04 - val_loss: 2.9492e-04
+Epoch 7/50
+139/139 [==============================] - 1s 5ms/step - loss: 0.0010 - val_loss: 4.8722e-04
+Epoch 8/50
+139/139 [==============================] - 1s 5ms/step - loss: 8.4541e-04 - val_loss: 2.8991e-04
+Epoch 9/50
+139/139 [==============================] - 1s 5ms/step - loss: 7.6680e-04 - val_loss: 3.3752e-04
+Epoch 10/50
+139/139 [==============================] - 1s 5ms/step - loss: 7.7212e-04 - val_loss: 4.5364e-04
+Epoch 11/50
+139/139 [==============================] - 1s 5ms/step - loss: 7.0860e-04 - val_loss: 3.0409e-04
+Epoch 12/50
+139/139 [==============================] - 1s 5ms/step - loss: 7.2307e-04 - val_loss: 8.1318e-04
+Epoch 13/50
+139/139 [==============================] - 1s 5ms/step - loss: 6.4345e-04 - val_loss: 3.5532e-04
+Epoch 14/50
+139/139 [==============================] - 1s 5ms/step - loss: 6.0116e-04 - val_loss: 5.3730e-04
+Epoch 15/50
+139/139 [==============================] - 1s 5ms/step - loss: 5.7184e-04 - val_loss: 9.7661e-04
+Epoch 16/50
+139/139 [==============================] - 1s 5ms/step - loss: 5.4795e-04 - val_loss: 0.0013
+Epoch 17/50
+139/139 [==============================] - 1s 5ms/step - loss: 5.9865e-04 - val_loss: 4.6589e-04
+Epoch 18/50
+139/139 [==============================] - 1s 5ms/step - loss: 5.1420e-04 - val_loss: 6.2169e-04
+35/35 [==============================] - 0s 1ms/step
+35/35 [==============================] - 0s 1ms/step
+ZBH : 0.00028991289037823867 0.01242664429096386 0.01702682854727323
+ZBH : 109.00472545520994 118.22882440012562 9.224098944915681
+Data for ZBH appended successfully.

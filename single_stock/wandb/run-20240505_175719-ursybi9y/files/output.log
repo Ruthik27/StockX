@@ -1,0 +1,10 @@
+
+VLTO
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_6234/3734951550.py:81: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_6234/3734951550.py:82: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/sklearn/preprocessing/_data.py:480: RuntimeWarning: All-NaN slice encountered
+  data_min = np.nanmin(X, axis=0)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/sklearn/preprocessing/_data.py:481: RuntimeWarning: All-NaN slice encountered
+  data_max = np.nanmax(X, axis=0)

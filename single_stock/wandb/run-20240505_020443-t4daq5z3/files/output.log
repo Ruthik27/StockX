@@ -1,0 +1,47 @@
+GDP Data Range: 1960-12-31 00:00:00 - 2022-12-31 00:00:00
+Fed Funds Data Range: 1954-07-01 00:00:00 - 2024-04-01 00:00:00
+Mortgage Rate Data Range: 1971-04-02 00:00:00 - 2024-05-02 00:00:00
+Shape of X_train: (3303, 8, 1)
+Shape of X_test: (826, 8, 1)
+Data Scaled DataFrame Shape: (4129, 9)
+Epoch 1/50
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/733568960.py:57: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/733568960.py:57: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Dividends'].fillna(0, inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/733568960.py:65: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='ffill', inplace=True)
+/var/folders/nr/0m3_2w416k95_79fx2rpjb7h0000gn/T/ipykernel_31842/733568960.py:66: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  data.fillna(method='bfill', inplace=True)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+104/104 [==============================] - 3s 9ms/step - loss: 0.0151 - val_loss: 0.0369
+Epoch 2/50
+104/104 [==============================] - 1s 5ms/step - loss: 0.0020 - val_loss: 0.0356
+Epoch 3/50
+104/104 [==============================] - 1s 5ms/step - loss: 0.0015 - val_loss: 0.0335
+Epoch 4/50
+104/104 [==============================] - 1s 5ms/step - loss: 0.0012 - val_loss: 0.0336
+Epoch 5/50
+104/104 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 0.0336
+Epoch 6/50
+104/104 [==============================] - 0s 5ms/step - loss: 9.9085e-04 - val_loss: 0.0339
+Epoch 7/50
+104/104 [==============================] - 1s 5ms/step - loss: 9.0048e-04 - val_loss: 0.0348
+Epoch 8/50
+104/104 [==============================] - 0s 5ms/step - loss: 8.6711e-04 - val_loss: 0.0355
+Epoch 9/50
+104/104 [==============================] - 1s 5ms/step - loss: 8.3556e-04 - val_loss: 0.0362
+Epoch 10/50
+104/104 [==============================] - 1s 5ms/step - loss: 7.8562e-04 - val_loss: 0.0367
+Epoch 11/50
+104/104 [==============================] - 1s 5ms/step - loss: 7.3053e-04 - val_loss: 0.0373
+Epoch 12/50
+104/104 [==============================] - 0s 5ms/step - loss: 7.4922e-04 - val_loss: 0.0378
+Epoch 13/50
+104/104 [==============================] - 0s 5ms/step - loss: 6.5741e-04 - val_loss: 0.0382
+26/26 [==============================] - 1s 1ms/step
+26/26 [==============================] - 0s 2ms/step
+ABNB : 0.03354052204319436 0.1487411313538611 0.18314071650835692
+ABNB : 122.79724977949013 144.08531519813405 21.288065418643924
