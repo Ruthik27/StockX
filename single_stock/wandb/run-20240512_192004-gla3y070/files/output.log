@@ -1,0 +1,177 @@
+Processing ZBRA
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 4s 11ms/step - loss: 0.0148 - val_loss: 0.0349
+Epoch 2/50
+203/203 [==============================] - 1s 6ms/step - loss: 0.0018 - val_loss: 0.0192
+Epoch 3/50
+203/203 [==============================] - 1s 7ms/step - loss: 0.0017 - val_loss: 0.0195
+Epoch 4/50
+203/203 [==============================] - 1s 6ms/step - loss: 0.0016 - val_loss: 0.0199
+Epoch 5/50
+203/203 [==============================] - 1s 5ms/step - loss: 0.0015 - val_loss: 0.0206
+Epoch 6/50
+203/203 [==============================] - 1s 6ms/step - loss: 0.0013 - val_loss: 0.0211
+Epoch 7/50
+203/203 [==============================] - 1s 7ms/step - loss: 0.0013 - val_loss: 0.0202
+Epoch 8/50
+
+
+203/203 [==============================] - 5s 24ms/step - loss: 0.0013 - val_loss: 0.0209
+Epoch 9/50
+203/203 [==============================] - 2s 9ms/step - loss: 0.0011 - val_loss: 0.0206
+Epoch 10/50
+203/203 [==============================] - 1s 5ms/step - loss: 0.0011 - val_loss: 0.0200
+Epoch 11/50
+203/203 [==============================] - 2s 12ms/step - loss: 9.7869e-04 - val_loss: 0.0200
+Epoch 12/50
+203/203 [==============================] - 1s 5ms/step - loss: 9.0758e-04 - val_loss: 0.0205
+51/51 [==============================] - 0s 1ms/step
+ZBRA: MSE=0.019238509222515743, MAE=0.09775577930523786, RMSE=0.1387029531859929
+Processing VLTO
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+1/1 [==============================] - 2s 2s/step - loss: 0.3370 - val_loss: 0.0049
+Epoch 2/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2987 - val_loss: 0.0099
+Epoch 3/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.2727 - val_loss: 0.0171
+Epoch 4/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.2138 - val_loss: 0.0268
+Epoch 5/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.1993 - val_loss: 0.0395
+Epoch 6/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.1758 - val_loss: 0.0558
+Epoch 7/50
+1/1 [==============================] - 0s 20ms/step - loss: 0.1636 - val_loss: 0.0763
+Epoch 8/50
+1/1 [==============================] - 0s 26ms/step - loss: 0.1278 - val_loss: 0.1022
+Epoch 9/50
+1/1 [==============================] - 0s 22ms/step - loss: 0.0969 - val_loss: 0.1342
+Epoch 10/50
+1/1 [==============================] - 0s 20ms/step - loss: 0.0673 - val_loss: 0.1735
+Epoch 11/50
+1/1 [==============================] - 0s 21ms/step - loss: 0.0447 - val_loss: 0.2208
+1/1 [==============================] - 0s 391ms/step
+VLTO: MSE=0.004859854355559195, MAE=0.06970442417836975, RMSE=0.06971265563410417
+Processing ZTS
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+Epoch 1/50
+68/68 [==============================] - 2s 10ms/step - loss: 0.0546 - val_loss: 0.0749
+Epoch 2/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0095 - val_loss: 0.0574
+Epoch 3/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0084 - val_loss: 0.0566
+Epoch 4/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0085 - val_loss: 0.0560
+Epoch 5/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0081 - val_loss: 0.0510
+Epoch 6/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0076 - val_loss: 0.0590
+Epoch 7/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0075 - val_loss: 0.0477
+Epoch 8/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0071 - val_loss: 0.0467
+Epoch 9/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0070 - val_loss: 0.0485
+Epoch 10/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0070 - val_loss: 0.0447
+Epoch 11/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0069 - val_loss: 0.0421
+Epoch 12/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0065 - val_loss: 0.0342
+Epoch 13/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0063 - val_loss: 0.0353
+Epoch 14/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0067 - val_loss: 0.0384
+Epoch 15/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0063 - val_loss: 0.0445
+Epoch 16/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0060 - val_loss: 0.0357
+Epoch 17/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0060 - val_loss: 0.0421
+Epoch 18/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0054 - val_loss: 0.0327
+Epoch 19/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0052 - val_loss: 0.0335
+Epoch 20/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0052 - val_loss: 0.0251
+Epoch 21/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0049 - val_loss: 0.0274
+Epoch 22/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0043 - val_loss: 0.0175
+Epoch 23/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0039 - val_loss: 0.0122
+Epoch 24/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0036 - val_loss: 0.0085
+Epoch 25/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0030 - val_loss: 0.0083
+Epoch 26/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0029 - val_loss: 0.0088
+Epoch 27/50
+Epoch 31/50==========================] - 0s 5ms/step - loss: 0.0026 - val_loss: 0.0062
+Epoch 28/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0025 - val_loss: 0.0055
+Epoch 29/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0027 - val_loss: 0.0052
+Epoch 30/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0026 - val_loss: 0.0039
+Epoch 31/50==========================] - 0s 5ms/step - loss: 0.0026 - val_loss: 0.0062
+68/68 [==============================] - 0s 5ms/step - loss: 0.0023 - val_loss: 0.0044
+Epoch 32/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0025 - val_loss: 0.0061
+Epoch 33/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0021 - val_loss: 0.0044
+Epoch 34/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0022 - val_loss: 0.0038
+Epoch 35/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0021 - val_loss: 0.0034
+Epoch 36/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0021 - val_loss: 0.0034
+Epoch 37/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0020 - val_loss: 0.0039
+Epoch 38/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0021 - val_loss: 0.0038
+Epoch 39/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0021 - val_loss: 0.0044
+Epoch 40/50
+14/68 [=====>........................] - ETA: 0s - loss: 0.00200020 - val_loss: 0.0036
+Epoch 41/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0019 - val_loss: 0.0040
+Epoch 42/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0019 - val_loss: 0.0030
+Epoch 43/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0019 - val_loss: 0.0028
+Epoch 44/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0018 - val_loss: 0.0030
+Epoch 45/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0027
+Epoch 46/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0018 - val_loss: 0.0034
+Epoch 47/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 48/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0017 - val_loss: 0.0039
+Epoch 49/50
+68/68 [==============================] - 0s 4ms/step - loss: 0.0015 - val_loss: 0.0026
+Epoch 50/50
+68/68 [==============================] - 0s 5ms/step - loss: 0.0015 - val_loss: 0.0033
+68/68 [==============================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+68/68 [==============================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 3/50===========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 3/50===========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 10/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 10/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 17/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 17/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 17/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 24/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 24/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 31/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 31/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 38/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 41/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 45/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+Epoch 48/50==========================] - 0s 4ms/step - loss: 0.0016 - val_loss: 0.0030
+35/35 [==============================] - 0s 1ms/step - loss: 0.0016 - val_loss: 0.0030
+35/35 [==============================] - 0s 1ms/step - loss: 0.0016 - val_loss: 0.0030

@@ -1,0 +1,2 @@
+
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')

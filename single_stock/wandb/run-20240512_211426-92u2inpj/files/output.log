@@ -1,0 +1,27 @@
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 3s 5ms/step - loss: 2.1921e-04 - val_loss: 8.3433e-05
+Epoch 2/50
+203/203 [==============================] - 1s 3ms/step - loss: 2.3076e-05 - val_loss: 5.3828e-05
+Epoch 3/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.8761e-05 - val_loss: 1.3739e-04
+Epoch 4/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.7181e-05 - val_loss: 1.6422e-04
+Epoch 5/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.5158e-05 - val_loss: 8.9433e-05
+Epoch 6/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.4666e-05 - val_loss: 6.8946e-04
+Epoch 7/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.2727e-05 - val_loss: 7.8925e-04
+Epoch 8/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.3137e-05 - val_loss: 9.1391e-04
+Epoch 9/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.3709e-05 - val_loss: 6.7184e-04
+Epoch 10/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.2531e-05 - val_loss: 3.9049e-04
+Epoch 11/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.2387e-05 - val_loss: 1.4223e-04
+Epoch 12/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.3199e-05 - val_loss: 4.0915e-04
+51/51 [==============================] - 0s 979us/step

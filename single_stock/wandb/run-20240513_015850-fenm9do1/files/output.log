@@ -1,0 +1,1055 @@
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/10
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 23s 3ms/step - loss: 9.8754e-05 - val_loss: 0.0017
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 20s 3ms/step - loss: 6.0184e-05 - val_loss: 6.2904e-06
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 20s 3ms/step - loss: 5.3665e-05 - val_loss: 4.6525e-05
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 20s 3ms/step - loss: 4.4832e-05 - val_loss: 0.0028
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 20s 3ms/step - loss: 3.8226e-05 - val_loss: 7.4787e-06
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 21s 3ms/step - loss: 3.9812e-05 - val_loss: 1.0142e-04
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 21s 3ms/step - loss: 3.2360e-05 - val_loss: 9.3355e-05
+1/1 [==============================] - 1s 517ms/step
+All data for ZBRA saved successfully to Excel.
+Epoch 1/10
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 24s 3ms/step - loss: 1.0908e-04 - val_loss: 1.5027e-04
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 21s 3ms/step - loss: 6.0874e-05 - val_loss: 1.9453e-05
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 5.2119e-05 - val_loss: 3.8045e-04
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 4.4651e-05 - val_loss: 1.8729e-04
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 3.9023e-05 - val_loss: 2.0025e-05
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 3.7538e-05 - val_loss: 1.4908e-05
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 21s 3ms/step - loss: 3.7873e-05 - val_loss: 7.4410e-05
+Epoch 8/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 3.4054e-05 - val_loss: 3.0269e-05
+Epoch 9/10
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 3.0567e-05 - val_loss: 1.5912e-05
+Epoch 10/10
+
+
+
+
+
+
+
+
+
+
+6484/6484 [==============================] - 20s 3ms/step - loss: 3.1452e-05 - val_loss: 5.8057e-04
+1/1 [==============================] - 1s 515ms/step
+All data for ZBRA saved successfully to Excel.
+Epoch 1/10
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 23s 3ms/step - loss: 1.0308e-04 - val_loss: 3.2988e-06
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 20s 3ms/step - loss: 5.5448e-05 - val_loss: 1.9972e-05
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 21s 3ms/step - loss: 5.0918e-05 - val_loss: 4.1644e-04
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 20s 3ms/step - loss: 4.3487e-05 - val_loss: 4.8146e-04
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 20s 3ms/step - loss: 4.3927e-05 - val_loss: 6.3061e-05
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+
+6485/6485 [==============================] - 21s 3ms/step - loss: 3.4575e-05 - val_loss: 1.8499e-04
+1/1 [==============================] - 1s 526ms/step
+All data for ZBRA saved successfully to Excel.
+Epoch 1/10
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 23s 3ms/step - loss: 1.0043e-04 - val_loss: 5.7413e-04
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 5.8939e-05 - val_loss: 2.4066e-04
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 5.1105e-05 - val_loss: 5.2425e-04
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 4.0547e-05 - val_loss: 5.7667e-05
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 4.0766e-05 - val_loss: 4.0706e-05
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 3.8001e-05 - val_loss: 2.5786e-04
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 3.5562e-05 - val_loss: 7.6568e-05
+Epoch 8/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 3.2923e-05 - val_loss: 1.6535e-05
+Epoch 9/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 3.0902e-05 - val_loss: 1.9640e-04
+Epoch 10/10
+
+
+
+
+
+
+
+
+
+6486/6486 [==============================] - 20s 3ms/step - loss: 3.3526e-05 - val_loss: 1.0789e-04
+WARNING:tensorflow:5 out of the last 39 calls to <function Model.make_predict_function.<locals>.predict_function at 0x34661c900> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 [==============================] - 1s 519ms/step
+All data for ZBRA saved successfully to Excel.
+WARNING:tensorflow:5 out of the last 39 calls to <function Model.make_predict_function.<locals>.predict_function at 0x34661c900> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+Epoch 1/10
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 24s 3ms/step - loss: 1.1340e-04 - val_loss: 5.9944e-04
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 5.8441e-05 - val_loss: 6.0913e-05
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 4.3975e-05 - val_loss: 1.2849e-06
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 4.6074e-05 - val_loss: 1.7527e-05
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 3.8999e-05 - val_loss: 5.7266e-05
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 3.9559e-05 - val_loss: 2.3585e-05
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 3.4703e-05 - val_loss: 1.5703e-05
+Epoch 8/10
+
+
+
+
+
+
+
+
+
+
+6487/6487 [==============================] - 20s 3ms/step - loss: 3.3001e-05 - val_loss: 4.7053e-04
+WARNING:tensorflow:6 out of the last 40 calls to <function Model.make_predict_function.<locals>.predict_function at 0x34c306f20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 [==============================] - 1s 523ms/step
+All data for ZBRA saved successfully to Excel.
+Epoch 1/10
+WARNING:tensorflow:6 out of the last 40 calls to <function Model.make_predict_function.<locals>.predict_function at 0x34c306f20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+6488/6488 [==============================] - 23s 3ms/step - loss: 1.1388e-04 - val_loss: 1.9040e-10
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+6488/6488 [==============================] - 20s 3ms/step - loss: 6.2949e-05 - val_loss: 3.6274e-05
+Epoch 3/10
+ 718/6488 [==>...........................] - ETA: 18s - loss: 5.7337e-05
+1366/6488 [=====>........................] - ETA: 16s - loss: 5.0556e-05
+2008/6488 [========>.....................] - ETA: 14s - loss: 4.8214e-05
+2652/6488 [===========>..................] - ETA: 12s - loss: 5.3140e-05
+3301/6488 [==============>...............] - ETA: 10s - loss: 5.3219e-05
+3941/6488 [=================>............] - ETA: 8s - loss: 5.1694e-05
+4587/6488 [====================>.........] - ETA: 5s - loss: 5.1905e-05
+5221/6488 [=======================>......] - ETA: 3s - loss: 5.2524e-05
+5870/6488 [==========================>...] - ETA: 1s - loss: 5.1232e-05
+  17/6488 [..............................] - ETA: 21s - loss: 1.9808e-04e-05 - val_loss: 9.6518e-06
+ 491/6488 [=>............................] - ETA: 19s - loss: 5.4420e-05e-05 - val_loss: 9.6518e-06
+1137/6488 [====>.........................] - ETA: 16s - loss: 4.2909e-05e-05 - val_loss: 9.6518e-06
+1784/6488 [=======>......................] - ETA: 14s - loss: 4.5774e-05e-05 - val_loss: 9.6518e-06
+2419/6488 [==========>...................] - ETA: 12s - loss: 4.7661e-05e-05 - val_loss: 9.6518e-06
+3071/6488 [=============>................] - ETA: 10s - loss: 4.6162e-05e-05 - val_loss: 9.6518e-06
+3716/6488 [================>.............] - ETA: 8s - loss: 4.4265e-05 e-05 - val_loss: 9.6518e-06
+4363/6488 [===================>..........] - ETA: 6s - loss: 4.3404e-05 e-05 - val_loss: 9.6518e-06
+4996/6488 [======================>.......] - ETA: 4s - loss: 4.1936e-05 e-05 - val_loss: 9.6518e-06
+5647/6488 [=========================>....] - ETA: 2s - loss: 4.1393e-05 e-05 - val_loss: 9.6518e-06
+6279/6488 [============================>.] - ETA: 0s - loss: 4.2127e-05 e-05 - val_loss: 9.6518e-06
+ 429/6488 [>.............................] - ETA: 19s - loss: 4.4343e-05e-05 - val_loss: 1.0062e-04
+1089/6488 [====>.........................] - ETA: 16s - loss: 5.1784e-05e-05 - val_loss: 1.0062e-04
+1734/6488 [=======>......................] - ETA: 14s - loss: 4.7065e-05e-05 - val_loss: 1.0062e-04
+2376/6488 [=========>....................] - ETA: 12s - loss: 4.4014e-05e-05 - val_loss: 1.0062e-04
+3003/6488 [============>.................] - ETA: 11s - loss: 4.7452e-05e-05 - val_loss: 1.0062e-04
+3661/6488 [===============>..............] - ETA: 8s - loss: 4.4065e-05 e-05 - val_loss: 1.0062e-04
+4295/6488 [==================>...........] - ETA: 6s - loss: 4.1298e-05 e-05 - val_loss: 1.0062e-04
+4940/6488 [=====================>........] - ETA: 4s - loss: 4.0722e-05 e-05 - val_loss: 1.0062e-04
+5587/6488 [========================>.....] - ETA: 2s - loss: 3.9221e-05 e-05 - val_loss: 1.0062e-04
+6245/6488 [===========================>..] - ETA: 0s - loss: 3.9724e-05 e-05 - val_loss: 1.0062e-04
+ 392/6488 [>.............................] - ETA: 18s - loss: 7.1739e-05e-05 - val_loss: 5.8915e-05
+1040/6488 [===>..........................] - ETA: 17s - loss: 4.7076e-05e-05 - val_loss: 5.8915e-05
+1671/6488 [======>.......................] - ETA: 15s - loss: 4.3899e-05e-05 - val_loss: 5.8915e-05
+2330/6488 [=========>....................] - ETA: 12s - loss: 4.2784e-05e-05 - val_loss: 5.8915e-05
+2975/6488 [============>.................] - ETA: 10s - loss: 4.3844e-05e-05 - val_loss: 5.8915e-05
+3615/6488 [===============>..............] - ETA: 9s - loss: 4.2470e-05 e-05 - val_loss: 5.8915e-05
+4086/6488 [=================>............] - ETA: 7s - loss: 4.0918e-05 e-05 - val_loss: 5.8915e-05
+4715/6488 [====================>.........] - ETA: 5s - loss: 4.0341e-05 e-05 - val_loss: 5.8915e-05
+5353/6488 [=======================>......] - ETA: 3s - loss: 3.9273e-05 e-05 - val_loss: 5.8915e-05
+6001/6488 [==========================>...] - ETA: 1s - loss: 3.9061e-05 e-05 - val_loss: 5.8915e-05
+6488/6488 [==============================] - 20s 3ms/step - loss: 3.8201e-05 - val_loss: 9.3865e-06
+6488/6488 [==============================] - 20s 3ms/step - loss: 3.8201e-05 - val_loss: 9.3865e-06
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.8201e-05 - val_loss: 9.3865e-06
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.8201e-05 - val_loss: 9.3865e-06
+ 528/6489 [=>............................] - ETA: 18s - loss: 3.6444e-04     - val_loss: 9.3865e-06
+1167/6489 [====>.........................] - ETA: 16s - loss: 2.4656e-04     - val_loss: 9.3865e-06
+1827/6489 [=======>......................] - ETA: 14s - loss: 2.0324e-04     - val_loss: 9.3865e-06
+2495/6489 [==========>...................] - ETA: 12s - loss: 1.6908e-04     - val_loss: 9.3865e-06
+3124/6489 [=============>................] - ETA: 10s - loss: 1.5185e-04     - val_loss: 9.3865e-06
+3771/6489 [================>.............] - ETA: 8s - loss: 1.3969e-04      - val_loss: 9.3865e-06
+4432/6489 [===================>..........] - ETA: 6s - loss: 1.3123e-04      - val_loss: 9.3865e-06
+5096/6489 [======================>.......] - ETA: 4s - loss: 1.2148e-04      - val_loss: 9.3865e-06
+5722/6489 [=========================>....] - ETA: 2s - loss: 1.1833e-04      - val_loss: 9.3865e-06
+6356/6489 [============================>.] - ETA: 0s - loss: 1.1191e-04      - val_loss: 9.3865e-06
+ 347/6489 [>.............................] - ETA: 19s - loss: 8.8955e-05e-04 - val_loss: 2.6490e-09
+ 995/6489 [===>..........................] - ETA: 17s - loss: 5.5065e-05e-04 - val_loss: 2.6490e-09
+1641/6489 [======>.......................] - ETA: 15s - loss: 6.2426e-05e-04 - val_loss: 2.6490e-09
+2289/6489 [=========>....................] - ETA: 13s - loss: 6.5437e-05e-04 - val_loss: 2.6490e-09
+2949/6489 [============>.................] - ETA: 11s - loss: 6.4441e-05e-04 - val_loss: 2.6490e-09
+3582/6489 [===============>..............] - ETA: 9s - loss: 6.2043e-05 e-04 - val_loss: 2.6490e-09
+4228/6489 [==================>...........] - ETA: 7s - loss: 6.2205e-05 e-04 - val_loss: 2.6490e-09
+4877/6489 [=====================>........] - ETA: 5s - loss: 5.8199e-05 e-04 - val_loss: 2.6490e-09
+5522/6489 [========================>.....] - ETA: 3s - loss: 6.1836e-05 e-04 - val_loss: 2.6490e-09
+6172/6489 [===========================>..] - ETA: 0s - loss: 6.4917e-05 e-04 - val_loss: 2.6490e-09
+ 163/6489 [..............................] - ETA: 20s - loss: 4.7960e-05e-05 - val_loss: 4.7118e-06
+ 804/6489 [==>...........................] - ETA: 17s - loss: 5.0891e-05e-05 - val_loss: 4.7118e-06
+1454/6489 [=====>........................] - ETA: 15s - loss: 5.1903e-05e-05 - val_loss: 4.7118e-06
+2097/6489 [========>.....................] - ETA: 13s - loss: 4.6425e-05e-05 - val_loss: 4.7118e-06
+2743/6489 [===========>..................] - ETA: 11s - loss: 5.4094e-05e-05 - val_loss: 4.7118e-06
+3393/6489 [==============>...............] - ETA: 9s - loss: 5.4165e-05 e-05 - val_loss: 4.7118e-06
+4042/6489 [=================>............] - ETA: 7s - loss: 5.4477e-05 e-05 - val_loss: 4.7118e-06
+4672/6489 [====================>.........] - ETA: 5s - loss: 5.6004e-05 e-05 - val_loss: 4.7118e-06
+5313/6489 [=======================>......] - ETA: 3s - loss: 5.4932e-05 e-05 - val_loss: 4.7118e-06
+5964/6489 [==========================>...] - ETA: 1s - loss: 5.2688e-05 e-05 - val_loss: 4.7118e-06
+ 120/6489 [..............................] - ETA: 19s - loss: 2.7979e-05e-05 - val_loss: 2.2866e-04
+ 767/6489 [==>...........................] - ETA: 17s - loss: 4.8635e-05e-05 - val_loss: 2.2866e-04
+1391/6489 [=====>........................] - ETA: 16s - loss: 4.2624e-05e-05 - val_loss: 2.2866e-04
+2052/6489 [========>.....................] - ETA: 13s - loss: 4.5612e-05e-05 - val_loss: 2.2866e-04
+2703/6489 [===========>..................] - ETA: 11s - loss: 3.9882e-05e-05 - val_loss: 2.2866e-04
+3350/6489 [==============>...............] - ETA: 9s - loss: 4.1827e-05 e-05 - val_loss: 2.2866e-04
+3981/6489 [=================>............] - ETA: 7s - loss: 4.5184e-05 e-05 - val_loss: 2.2866e-04
+4643/6489 [====================>.........] - ETA: 5s - loss: 4.4964e-05 e-05 - val_loss: 2.2866e-04
+5284/6489 [=======================>......] - ETA: 3s - loss: 4.5152e-05 e-05 - val_loss: 2.2866e-04
+5921/6489 [==========================>...] - ETA: 1s - loss: 4.6344e-05 e-05 - val_loss: 2.2866e-04
+6108/6489 [===========================>..] - ETA: 1s - loss: 4.5891e-05 e-05 - val_loss: 2.2866e-04
+ 727/6489 [==>...........................] - ETA: 17s - loss: 3.4639e-05e-05 - val_loss: 4.6148e-05
+1322/6489 [=====>........................] - ETA: 16s - loss: 4.1647e-05e-05 - val_loss: 4.6148e-05
+1970/6489 [========>.....................] - ETA: 14s - loss: 3.7912e-05e-05 - val_loss: 4.6148e-05
+2615/6489 [===========>..................] - ETA: 12s - loss: 3.7476e-05e-05 - val_loss: 4.6148e-05
+3271/6489 [==============>...............] - ETA: 10s - loss: 3.7432e-05e-05 - val_loss: 4.6148e-05
+3749/6489 [================>.............] - ETA: 8s - loss: 4.0595e-05 e-05 - val_loss: 4.6148e-05
+4336/6489 [===================>..........] - ETA: 6s - loss: 4.0800e-05 e-05 - val_loss: 4.6148e-05
+5029/6489 [======================>.......] - ETA: 4s - loss: 3.9431e-05 e-05 - val_loss: 4.6148e-05
+5681/6489 [=========================>....] - ETA: 2s - loss: 3.9469e-05 e-05 - val_loss: 4.6148e-05
+6325/6489 [============================>.] - ETA: 0s - loss: 3.9253e-05 e-05 - val_loss: 4.6148e-05
+ 465/6489 [=>............................] - ETA: 19s - loss: 4.0173e-05e-05 - val_loss: 6.0534e-04
+1124/6489 [====>.........................] - ETA: 16s - loss: 4.0097e-05e-05 - val_loss: 6.0534e-04
+1773/6489 [=======>......................] - ETA: 14s - loss: 3.7919e-05e-05 - val_loss: 6.0534e-04
+2411/6489 [==========>...................] - ETA: 12s - loss: 3.6985e-05e-05 - val_loss: 6.0534e-04
+3050/6489 [=============>................] - ETA: 10s - loss: 3.6256e-05e-05 - val_loss: 6.0534e-04
+3710/6489 [================>.............] - ETA: 8s - loss: 3.5915e-05 e-05 - val_loss: 6.0534e-04
+4336/6489 [===================>..........] - ETA: 6s - loss: 3.4819e-05 e-05 - val_loss: 6.0534e-04
+4970/6489 [=====================>........] - ETA: 4s - loss: 3.5050e-05 e-05 - val_loss: 6.0534e-04
+5618/6489 [========================>.....] - ETA: 2s - loss: 3.5495e-05 e-05 - val_loss: 6.0534e-04
+6278/6489 [============================>.] - ETA: 0s - loss: 3.5091e-05 e-05 - val_loss: 6.0534e-04
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.6180e-05 - val_loss: 3.9925e-05
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.6180e-05 - val_loss: 3.9925e-05
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+ 145/6490 [..............................] - ETA: 20s - loss: 5.3697e-04e-05 - val_loss: 3.9925e-05
+ 775/6490 [==>...........................] - ETA: 18s - loss: 2.6114e-04e-05 - val_loss: 3.9925e-05
+1414/6490 [=====>........................] - ETA: 16s - loss: 1.8853e-04e-05 - val_loss: 3.9925e-05
+2046/6490 [========>.....................] - ETA: 14s - loss: 1.5994e-04e-05 - val_loss: 3.9925e-05
+2674/6490 [===========>..................] - ETA: 12s - loss: 1.3994e-04e-05 - val_loss: 3.9925e-05
+3306/6490 [==============>...............] - ETA: 10s - loss: 1.2829e-04e-05 - val_loss: 3.9925e-05
+3941/6490 [=================>............] - ETA: 8s - loss: 1.2422e-04 e-05 - val_loss: 3.9925e-05
+4576/6490 [====================>.........] - ETA: 6s - loss: 1.1597e-04 e-05 - val_loss: 3.9925e-05
+5224/6490 [=======================>......] - ETA: 4s - loss: 1.1145e-04 e-05 - val_loss: 3.9925e-05
+5842/6490 [==========================>...] - ETA: 2s - loss: 1.0693e-04 e-05 - val_loss: 3.9925e-05
+6318/6490 [============================>.] - ETA: 0s - loss: 1.0298e-04 e-05 - val_loss: 3.9925e-05
+ 306/6490 [>.............................] - ETA: 19s - loss: 5.8165e-05e-04 - val_loss: 0.0013e-05
+ 926/6490 [===>..........................] - ETA: 17s - loss: 6.7049e-05e-04 - val_loss: 0.0013e-05
+1570/6490 [======>.......................] - ETA: 15s - loss: 6.6318e-05e-04 - val_loss: 0.0013e-05
+2199/6490 [=========>....................] - ETA: 13s - loss: 6.6212e-05e-04 - val_loss: 0.0013e-05
+2837/6490 [============>.................] - ETA: 11s - loss: 6.5613e-05e-04 - val_loss: 0.0013e-05
+3458/6490 [==============>...............] - ETA: 9s - loss: 6.3541e-05 e-04 - val_loss: 0.0013e-05
+4103/6490 [=================>............] - ETA: 7s - loss: 6.1896e-05 e-04 - val_loss: 0.0013e-05
+4731/6490 [====================>.........] - ETA: 5s - loss: 5.8785e-05 e-04 - val_loss: 0.0013e-05
+5365/6490 [=======================>......] - ETA: 3s - loss: 5.9891e-05 e-04 - val_loss: 0.0013e-05
+5968/6490 [==========================>...] - ETA: 1s - loss: 5.9298e-05 e-04 - val_loss: 0.0013e-05
+ 111/6490 [..............................] - ETA: 20s - loss: 2.3831e-05e-05 - val_loss: 1.2779e-04
+ 757/6490 [==>...........................] - ETA: 18s - loss: 5.3659e-05e-05 - val_loss: 1.2779e-04
+1375/6490 [=====>........................] - ETA: 16s - loss: 5.1118e-05e-05 - val_loss: 1.2779e-04
+2003/6490 [========>.....................] - ETA: 14s - loss: 4.5894e-05e-05 - val_loss: 1.2779e-04
+2649/6490 [===========>..................] - ETA: 12s - loss: 4.5047e-05e-05 - val_loss: 1.2779e-04
+3267/6490 [==============>...............] - ETA: 10s - loss: 4.5385e-05e-05 - val_loss: 1.2779e-04
+3893/6490 [================>.............] - ETA: 8s - loss: 4.5090e-05 e-05 - val_loss: 1.2779e-04
+4515/6490 [===================>..........] - ETA: 6s - loss: 4.4408e-05 e-05 - val_loss: 1.2779e-04
+5167/6490 [======================>.......] - ETA: 4s - loss: 4.5097e-05 e-05 - val_loss: 1.2779e-04
+5798/6490 [=========================>....] - ETA: 2s - loss: 4.5112e-05 e-05 - val_loss: 1.2779e-04
+6419/6490 [============================>.] - ETA: 0s - loss: 4.4924e-05 e-05 - val_loss: 1.2779e-04
+ 558/6490 [=>............................] - ETA: 19s - loss: 4.1297e-05e-05 - val_loss: 1.1049e-07
+1190/6490 [====>.........................] - ETA: 16s - loss: 5.7714e-05e-05 - val_loss: 1.1049e-07
+1824/6490 [=======>......................] - ETA: 14s - loss: 5.5801e-05e-05 - val_loss: 1.1049e-07
+2461/6490 [==========>...................] - ETA: 12s - loss: 5.1543e-05e-05 - val_loss: 1.1049e-07
+2929/6490 [============>.................] - ETA: 11s - loss: 5.0915e-05e-05 - val_loss: 1.1049e-07
+3564/6490 [===============>..............] - ETA: 9s - loss: 4.7364e-05 e-05 - val_loss: 1.1049e-07
+4187/6490 [==================>...........] - ETA: 7s - loss: 4.6458e-05 e-05 - val_loss: 1.1049e-07
+4829/6490 [=====================>........] - ETA: 5s - loss: 4.6790e-05 e-05 - val_loss: 1.1049e-07
+5471/6490 [========================>.....] - ETA: 3s - loss: 4.5638e-05 e-05 - val_loss: 1.1049e-07
+6102/6490 [===========================>..] - ETA: 1s - loss: 4.5070e-05 e-05 - val_loss: 1.1049e-07
+ 245/6490 [>.............................] - ETA: 19s - loss: 4.3060e-05e-05 - val_loss: 2.1088e-04
+ 861/6490 [==>...........................] - ETA: 18s - loss: 4.1109e-05e-05 - val_loss: 2.1088e-04
+1505/6490 [=====>........................] - ETA: 15s - loss: 4.0179e-05e-05 - val_loss: 2.1088e-04
+2147/6490 [========>.....................] - ETA: 13s - loss: 4.4151e-05e-05 - val_loss: 2.1088e-04
+2785/6490 [===========>..................] - ETA: 11s - loss: 4.3481e-05e-05 - val_loss: 2.1088e-04
+3407/6490 [==============>...............] - ETA: 9s - loss: 4.2465e-05 e-05 - val_loss: 2.1088e-04
+4051/6490 [=================>............] - ETA: 7s - loss: 4.1608e-05 e-05 - val_loss: 2.1088e-04
+4671/6490 [====================>.........] - ETA: 5s - loss: 4.3018e-05 e-05 - val_loss: 2.1088e-04
+5305/6490 [=======================>......] - ETA: 3s - loss: 4.1725e-05 e-05 - val_loss: 2.1088e-04
+5928/6490 [==========================>...] - ETA: 1s - loss: 4.1298e-05 e-05 - val_loss: 2.1088e-04
+  78/6490 [..............................] - ETA: 21s - loss: 3.3256e-05e-05 - val_loss: 5.4817e-05
+ 701/6490 [==>...........................] - ETA: 18s - loss: 3.8849e-05e-05 - val_loss: 5.4817e-05
+1341/6490 [=====>........................] - ETA: 16s - loss: 4.4558e-05e-05 - val_loss: 5.4817e-05
+1960/6490 [========>.....................] - ETA: 14s - loss: 4.1041e-05e-05 - val_loss: 5.4817e-05
+2591/6490 [==========>...................] - ETA: 12s - loss: 3.9904e-05e-05 - val_loss: 5.4817e-05
+3231/6490 [=============>................] - ETA: 10s - loss: 3.9705e-05e-05 - val_loss: 5.4817e-05
+3855/6490 [================>.............] - ETA: 8s - loss: 3.8983e-05 e-05 - val_loss: 5.4817e-05
+4490/6490 [===================>..........] - ETA: 6s - loss: 3.7500e-05 e-05 - val_loss: 5.4817e-05
+5134/6490 [======================>.......] - ETA: 4s - loss: 3.6857e-05 e-05 - val_loss: 5.4817e-05
+5589/6490 [========================>.....] - ETA: 2s - loss: 3.7482e-05 e-05 - val_loss: 5.4817e-05
+6230/6490 [===========================>..] - ETA: 0s - loss: 3.7308e-05 e-05 - val_loss: 5.4817e-05
+ 372/6490 [>.............................] - ETA: 19s - loss: 3.0249e-05e-05 - val_loss: 3.7062e-05
+1017/6490 [===>..........................] - ETA: 17s - loss: 4.2430e-05e-05 - val_loss: 3.7062e-05
+1641/6490 [======>.......................] - ETA: 15s - loss: 3.8013e-05e-05 - val_loss: 3.7062e-05
+2250/6490 [=========>....................] - ETA: 13s - loss: 3.8438e-05e-05 - val_loss: 3.7062e-05
+2903/6490 [============>.................] - ETA: 11s - loss: 3.8408e-05e-05 - val_loss: 3.7062e-05
+3537/6490 [===============>..............] - ETA: 9s - loss: 3.8227e-05 e-05 - val_loss: 3.7062e-05
+4162/6490 [==================>...........] - ETA: 7s - loss: 3.7178e-05 e-05 - val_loss: 3.7062e-05
+4787/6490 [=====================>........] - ETA: 5s - loss: 3.8062e-05 e-05 - val_loss: 3.7062e-05
+5431/6490 [========================>.....] - ETA: 3s - loss: 3.7337e-05 e-05 - val_loss: 3.7062e-05
+6071/6490 [===========================>..] - ETA: 1s - loss: 3.8978e-05 e-05 - val_loss: 3.7062e-05
+ 195/6490 [..............................] - ETA: 19s - loss: 3.3710e-05e-05 - val_loss: 2.7450e-09
+ 837/6490 [==>...........................] - ETA: 18s - loss: 3.8620e-05e-05 - val_loss: 2.7450e-09
+1474/6490 [=====>........................] - ETA: 15s - loss: 3.5544e-05e-05 - val_loss: 2.7450e-09
+2110/6490 [========>.....................] - ETA: 13s - loss: 3.4311e-05e-05 - val_loss: 2.7450e-09
+2729/6490 [===========>..................] - ETA: 12s - loss: 3.5127e-05e-05 - val_loss: 2.7450e-09
+3371/6490 [==============>...............] - ETA: 9s - loss: 3.2650e-05 e-05 - val_loss: 2.7450e-09
+3999/6490 [=================>............] - ETA: 7s - loss: 3.2792e-05 e-05 - val_loss: 2.7450e-09
+4622/6490 [====================>.........] - ETA: 5s - loss: 3.3798e-05 e-05 - val_loss: 2.7450e-09
+5244/6490 [=======================>......] - ETA: 3s - loss: 3.3020e-05 e-05 - val_loss: 2.7450e-09
+5868/6490 [==========================>...] - ETA: 1s - loss: 3.3045e-05 e-05 - val_loss: 2.7450e-09
+  31/6490 [..............................] - ETA: 21s - loss: 1.1715e-05e-05 - val_loss: 5.1655e-05
+ 668/6490 [==>...........................] - ETA: 18s - loss: 2.1245e-05e-05 - val_loss: 5.1655e-05
+1285/6490 [====>.........................] - ETA: 16s - loss: 4.7937e-05e-05 - val_loss: 5.1655e-05
+1739/6490 [=======>......................] - ETA: 15s - loss: 4.8415e-05e-05 - val_loss: 5.1655e-05
+2388/6490 [==========>...................] - ETA: 13s - loss: 4.6000e-05e-05 - val_loss: 5.1655e-05
+3005/6490 [============>.................] - ETA: 11s - loss: 4.1789e-05e-05 - val_loss: 5.1655e-05
+3642/6490 [===============>..............] - ETA: 9s - loss: 3.9382e-05 e-05 - val_loss: 5.1655e-05
+4268/6490 [==================>...........] - ETA: 7s - loss: 3.8614e-05 e-05 - val_loss: 5.1655e-05
+4910/6490 [=====================>........] - ETA: 5s - loss: 3.8857e-05 e-05 - val_loss: 5.1655e-05
+5529/6490 [========================>.....] - ETA: 3s - loss: 3.9014e-05 e-05 - val_loss: 5.1655e-05
+6162/6490 [===========================>..] - ETA: 1s - loss: 3.8161e-05 e-05 - val_loss: 5.1655e-05
+ 303/6490 [>.............................] - ETA: 19s - loss: 2.9848e-05e-05 - val_loss: 4.6088e-05
+ 936/6490 [===>..........................] - ETA: 17s - loss: 2.6490e-05e-05 - val_loss: 4.6088e-05
+1563/6490 [======>.......................] - ETA: 15s - loss: 2.5785e-05e-05 - val_loss: 4.6088e-05
+2188/6490 [=========>....................] - ETA: 13s - loss: 2.5947e-05e-05 - val_loss: 4.6088e-05
+2838/6490 [============>.................] - ETA: 11s - loss: 2.6558e-05e-05 - val_loss: 4.6088e-05
+3471/6490 [===============>..............] - ETA: 9s - loss: 2.7847e-05 e-05 - val_loss: 4.6088e-05
+4099/6490 [=================>............] - ETA: 7s - loss: 2.9046e-05 e-05 - val_loss: 4.6088e-05
+4722/6490 [====================>.........] - ETA: 5s - loss: 2.8558e-05 e-05 - val_loss: 4.6088e-05
+5375/6490 [=======================>......] - ETA: 3s - loss: 2.8288e-05 e-05 - val_loss: 4.6088e-05
+6006/6490 [==========================>...] - ETA: 1s - loss: 2.9100e-05 e-05 - val_loss: 4.6088e-05
+6490/6490 [==============================] - 21s 3ms/step - loss: 2.8993e-05 - val_loss: 8.6607e-05
+6490/6490 [==============================] - 21s 3ms/step - loss: 2.8993e-05 - val_loss: 8.6607e-05
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+Epoch 1/10or ZBRA saved successfully to Excel.tep3ms/step - loss: 2.8993e-05 - val_loss: 8.6607e-05
+ 283/6491 [>.............................] - ETA: 21s - loss: 4.4156e-04e-05 - val_loss: 8.6607e-05
+ 912/6491 [===>..........................] - ETA: 18s - loss: 2.3323e-04e-05 - val_loss: 8.6607e-05
+1524/6491 [======>.......................] - ETA: 16s - loss: 1.8797e-04e-05 - val_loss: 8.6607e-05
+2152/6491 [========>.....................] - ETA: 14s - loss: 1.6650e-04e-05 - val_loss: 8.6607e-05
+2792/6491 [===========>..................] - ETA: 12s - loss: 1.4909e-04e-05 - val_loss: 8.6607e-05
+3410/6491 [==============>...............] - ETA: 10s - loss: 1.3164e-04e-05 - val_loss: 8.6607e-05
+3881/6491 [================>.............] - ETA: 8s - loss: 1.2541e-04 e-05 - val_loss: 8.6607e-05
+4515/6491 [===================>..........] - ETA: 6s - loss: 1.1844e-04 e-05 - val_loss: 8.6607e-05
+5149/6491 [======================>.......] - ETA: 4s - loss: 1.1285e-04 e-05 - val_loss: 8.6607e-05
+5756/6491 [=========================>....] - ETA: 2s - loss: 1.0810e-04 e-05 - val_loss: 8.6607e-05
+6382/6491 [============================>.] - ETA: 0s - loss: 1.0500e-04 e-05 - val_loss: 8.6607e-05
+ 361/6491 [>.............................] - ETA: 19s - loss: 4.2680e-05e-04 - val_loss: 1.3176e-05
+1010/6491 [===>..........................] - ETA: 17s - loss: 6.6329e-05e-04 - val_loss: 1.3176e-05
+1649/6491 [======>.......................] - ETA: 15s - loss: 8.0989e-05e-04 - val_loss: 1.3176e-05
+2284/6491 [=========>....................] - ETA: 13s - loss: 7.1771e-05e-04 - val_loss: 1.3176e-05
+2937/6491 [============>.................] - ETA: 11s - loss: 6.6901e-05e-04 - val_loss: 1.3176e-05
+3572/6491 [===============>..............] - ETA: 9s - loss: 6.3540e-05 e-04 - val_loss: 1.3176e-05
+4214/6491 [==================>...........] - ETA: 7s - loss: 5.8777e-05 e-04 - val_loss: 1.3176e-05
+4857/6491 [=====================>........] - ETA: 5s - loss: 6.1452e-05 e-04 - val_loss: 1.3176e-05
+5493/6491 [========================>.....] - ETA: 3s - loss: 6.0771e-05 e-04 - val_loss: 1.3176e-05
+6137/6491 [===========================>..] - ETA: 1s - loss: 5.8484e-05 e-04 - val_loss: 1.3176e-05
+ 231/6491 [>.............................] - ETA: 19s - loss: 5.0547e-05e-05 - val_loss: 4.6731e-04
+ 914/6491 [===>..........................] - ETA: 17s - loss: 6.7743e-05e-05 - val_loss: 4.6731e-04
+1550/6491 [======>.......................] - ETA: 15s - loss: 5.4887e-05e-05 - val_loss: 4.6731e-04
+2175/6491 [=========>....................] - ETA: 13s - loss: 5.4507e-05e-05 - val_loss: 4.6731e-04
+2819/6491 [============>.................] - ETA: 11s - loss: 5.2255e-05e-05 - val_loss: 4.6731e-04
+3445/6491 [==============>...............] - ETA: 9s - loss: 5.2319e-05 e-05 - val_loss: 4.6731e-04
+4096/6491 [=================>............] - ETA: 7s - loss: 4.9149e-05 e-05 - val_loss: 4.6731e-04
+4739/6491 [====================>.........] - ETA: 5s - loss: 4.8809e-05 e-05 - val_loss: 4.6731e-04
+5380/6491 [=======================>......] - ETA: 3s - loss: 5.1254e-05 e-05 - val_loss: 4.6731e-04
+6024/6491 [==========================>...] - ETA: 1s - loss: 4.9766e-05 e-05 - val_loss: 4.6731e-04
+  17/6491 [..............................] - ETA: 21s - loss: 1.4878e-05e-05 - val_loss: 2.1887e-04
+ 652/6491 [==>...........................] - ETA: 18s - loss: 4.0071e-05e-05 - val_loss: 2.1887e-04
+1280/6491 [====>.........................] - ETA: 16s - loss: 5.2398e-05e-05 - val_loss: 2.1887e-04
+1925/6491 [=======>......................] - ETA: 14s - loss: 4.7976e-05e-05 - val_loss: 2.1887e-04
+2570/6491 [==========>...................] - ETA: 12s - loss: 4.3319e-05e-05 - val_loss: 2.1887e-04
+3213/6491 [=============>................] - ETA: 10s - loss: 4.6392e-05e-05 - val_loss: 2.1887e-04
+3838/6491 [================>.............] - ETA: 8s - loss: 4.5905e-05 e-05 - val_loss: 2.1887e-04
+4483/6491 [===================>..........] - ETA: 6s - loss: 4.4186e-05 e-05 - val_loss: 2.1887e-04
+5136/6491 [======================>.......] - ETA: 4s - loss: 4.3751e-05 e-05 - val_loss: 2.1887e-04
+5735/6491 [=========================>....] - ETA: 2s - loss: 4.4126e-05 e-05 - val_loss: 2.1887e-04
+6371/6491 [============================>.] - ETA: 0s - loss: 4.4718e-05 e-05 - val_loss: 2.1887e-04
+ 532/6491 [=>............................] - ETA: 18s - loss: 5.2941e-05e-05 - val_loss: 5.9862e-04
+1168/6491 [====>.........................] - ETA: 16s - loss: 4.2495e-05e-05 - val_loss: 5.9862e-04
+1799/6491 [=======>......................] - ETA: 14s - loss: 4.2282e-05e-05 - val_loss: 5.9862e-04
+2426/6491 [==========>...................] - ETA: 12s - loss: 4.0757e-05e-05 - val_loss: 5.9862e-04
+3079/6491 [=============>................] - ETA: 10s - loss: 4.1585e-05e-05 - val_loss: 5.9862e-04
+3710/6491 [================>.............] - ETA: 8s - loss: 4.0474e-05 e-05 - val_loss: 5.9862e-04
+4358/6491 [===================>..........] - ETA: 6s - loss: 3.8846e-05 e-05 - val_loss: 5.9862e-04
+4976/6491 [=====================>........] - ETA: 4s - loss: 3.8644e-05 e-05 - val_loss: 5.9862e-04
+5640/6491 [=========================>....] - ETA: 2s - loss: 3.7640e-05 e-05 - val_loss: 5.9862e-04
+6267/6491 [===========================>..] - ETA: 0s - loss: 3.9351e-05 e-05 - val_loss: 5.9862e-04
+ 409/6491 [>.............................] - ETA: 19s - loss: 4.1207e-05e-05 - val_loss: 0.0010e-04
+1051/6491 [===>..........................] - ETA: 17s - loss: 3.5031e-05e-05 - val_loss: 0.0010e-04
+1706/6491 [======>.......................] - ETA: 15s - loss: 4.6688e-05e-05 - val_loss: 0.0010e-04
+2331/6491 [=========>....................] - ETA: 13s - loss: 4.1600e-05e-05 - val_loss: 0.0010e-04
+2971/6491 [============>.................] - ETA: 11s - loss: 4.0735e-05e-05 - val_loss: 0.0010e-04
+3445/6491 [==============>...............] - ETA: 9s - loss: 4.1714e-05 e-05 - val_loss: 0.0010e-04
+4096/6491 [=================>............] - ETA: 7s - loss: 4.1175e-05 e-05 - val_loss: 0.0010e-04
+4741/6491 [====================>.........] - ETA: 5s - loss: 4.0239e-05 e-05 - val_loss: 0.0010e-04
+5366/6491 [=======================>......] - ETA: 3s - loss: 4.1374e-05 e-05 - val_loss: 0.0010e-04
+6016/6491 [==========================>...] - ETA: 1s - loss: 4.0764e-05 e-05 - val_loss: 0.0010e-04
+6016/6491 [==========================>...] - ETA: 1s - loss: 4.0764e-05 e-05 - val_loss: 0.0010e-04
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+6491/6491 [==============================] - 21s 3ms/step - loss: 3.9716e-05 - val_loss: 5.2646e-04
+6491/6491 [==============================] - 21s 3ms/step - loss: 3.9716e-05 - val_loss: 5.2646e-04
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.9716e-05 - val_loss: 5.2646e-04
+ 396/6492 [>.............................] - ETA: 25s - loss: 4.0485e-04e-05 - val_loss: 5.2646e-04
+1036/6492 [===>..........................] - ETA: 19s - loss: 2.2267e-04e-05 - val_loss: 5.2646e-04
+1670/6492 [======>.......................] - ETA: 16s - loss: 2.0255e-04e-05 - val_loss: 5.2646e-04
+2301/6492 [=========>....................] - ETA: 14s - loss: 1.6908e-04e-05 - val_loss: 5.2646e-04
+2936/6492 [============>.................] - ETA: 11s - loss: 1.4609e-04e-05 - val_loss: 5.2646e-04
+3572/6492 [===============>..............] - ETA: 9s - loss: 1.3742e-04 e-05 - val_loss: 5.2646e-04
+4185/6492 [==================>...........] - ETA: 7s - loss: 1.3298e-04 e-05 - val_loss: 5.2646e-04
+4822/6492 [=====================>........] - ETA: 5s - loss: 1.2484e-04 e-05 - val_loss: 5.2646e-04
+5437/6492 [========================>.....] - ETA: 3s - loss: 1.1890e-04 e-05 - val_loss: 5.2646e-04
+6072/6492 [===========================>..] - ETA: 1s - loss: 1.1052e-04 e-05 - val_loss: 5.2646e-04
+  49/6492 [..............................] - ETA: 20s - loss: 2.7696e-05e-04 - val_loss: 5.3093e-04
+ 681/6492 [==>...........................] - ETA: 18s - loss: 7.8810e-05e-04 - val_loss: 5.3093e-04
+1296/6492 [====>.........................] - ETA: 16s - loss: 8.8545e-05e-04 - val_loss: 5.3093e-04
+1934/6492 [=======>......................] - ETA: 14s - loss: 7.5237e-05e-04 - val_loss: 5.3093e-04
+2560/6492 [==========>...................] - ETA: 12s - loss: 6.7027e-05e-04 - val_loss: 5.3093e-04
+3190/6492 [=============>................] - ETA: 10s - loss: 6.7834e-05e-04 - val_loss: 5.3093e-04
+3819/6492 [================>.............] - ETA: 8s - loss: 6.3563e-05 e-04 - val_loss: 5.3093e-04
+4454/6492 [===================>..........] - ETA: 6s - loss: 6.1610e-05 e-04 - val_loss: 5.3093e-04
+4921/6492 [=====================>........] - ETA: 5s - loss: 6.1171e-05 e-04 - val_loss: 5.3093e-04
+5533/6492 [========================>.....] - ETA: 3s - loss: 5.8717e-05 e-04 - val_loss: 5.3093e-04
+6172/6492 [===========================>..] - ETA: 1s - loss: 5.9535e-05 e-04 - val_loss: 5.3093e-04
+ 306/6492 [>.............................] - ETA: 19s - loss: 4.5989e-05e-05 - val_loss: 0.0014e-04
+ 940/6492 [===>..........................] - ETA: 17s - loss: 6.3951e-05e-05 - val_loss: 0.0014e-04
+1567/6492 [======>.......................] - ETA: 15s - loss: 5.5310e-05e-05 - val_loss: 0.0014e-04
+2183/6492 [=========>....................] - ETA: 13s - loss: 5.1373e-05e-05 - val_loss: 0.0014e-04
+2819/6492 [============>.................] - ETA: 11s - loss: 5.0143e-05e-05 - val_loss: 0.0014e-04
+3446/6492 [==============>...............] - ETA: 9s - loss: 5.2880e-05 e-05 - val_loss: 0.0014e-04
+4078/6492 [=================>............] - ETA: 7s - loss: 5.1267e-05 e-05 - val_loss: 0.0014e-04
+4716/6492 [====================>.........] - ETA: 5s - loss: 5.2646e-05 e-05 - val_loss: 0.0014e-04
+5335/6492 [=======================>......] - ETA: 3s - loss: 5.0074e-05 e-05 - val_loss: 0.0014e-04
+5963/6492 [==========================>...] - ETA: 1s - loss: 4.8420e-05 e-05 - val_loss: 0.0014e-04
+  95/6492 [..............................] - ETA: 21s - loss: 2.6371e-05e-05 - val_loss: 4.9809e-04
+ 718/6492 [==>...........................] - ETA: 18s - loss: 3.4108e-05e-05 - val_loss: 4.9809e-04
+1347/6492 [=====>........................] - ETA: 16s - loss: 4.4833e-05e-05 - val_loss: 4.9809e-04
+1961/6492 [========>.....................] - ETA: 14s - loss: 4.7099e-05e-05 - val_loss: 4.9809e-04
+2568/6492 [==========>...................] - ETA: 12s - loss: 4.6890e-05e-05 - val_loss: 4.9809e-04
+3192/6492 [=============>................] - ETA: 10s - loss: 4.6785e-05e-05 - val_loss: 4.9809e-04
+3817/6492 [================>.............] - ETA: 8s - loss: 4.4185e-05 e-05 - val_loss: 4.9809e-04
+4445/6492 [===================>..........] - ETA: 6s - loss: 4.3065e-05 e-05 - val_loss: 4.9809e-04
+5061/6492 [======================>.......] - ETA: 4s - loss: 4.6905e-05 e-05 - val_loss: 4.9809e-04
+5701/6492 [=========================>....] - ETA: 2s - loss: 4.5494e-05 e-05 - val_loss: 4.9809e-04
+6314/6492 [============================>.] - ETA: 0s - loss: 4.6791e-05 e-05 - val_loss: 4.9809e-04
+ 440/6492 [=>............................] - ETA: 19s - loss: 4.2316e-05e-05 - val_loss: 3.3654e-06
+ 919/6492 [===>..........................] - ETA: 17s - loss: 3.5296e-05e-05 - val_loss: 3.3654e-06
+1547/6492 [======>.......................] - ETA: 15s - loss: 3.9605e-05e-05 - val_loss: 3.3654e-06
+2175/6492 [=========>....................] - ETA: 13s - loss: 3.7244e-05e-05 - val_loss: 3.3654e-06
+2805/6492 [===========>..................] - ETA: 11s - loss: 4.0392e-05e-05 - val_loss: 3.3654e-06
+3444/6492 [==============>...............] - ETA: 9s - loss: 3.8906e-05 e-05 - val_loss: 3.3654e-06
+4064/6492 [=================>............] - ETA: 7s - loss: 3.9446e-05 e-05 - val_loss: 3.3654e-06
+4697/6492 [====================>.........] - ETA: 5s - loss: 3.9179e-05 e-05 - val_loss: 3.3654e-06
+5325/6492 [=======================>......] - ETA: 3s - loss: 4.0999e-05 e-05 - val_loss: 3.3654e-06
+5947/6492 [==========================>...] - ETA: 1s - loss: 4.0396e-05 e-05 - val_loss: 3.3654e-06
+  65/6492 [..............................] - ETA: 20s - loss: 2.2810e-05e-05 - val_loss: 1.1486e-05
+ 692/6492 [==>...........................] - ETA: 18s - loss: 2.8387e-05e-05 - val_loss: 1.1486e-05
+1222/6492 [====>.........................] - ETA: 18s - loss: 3.4256e-05e-05 - val_loss: 1.1486e-05
+1767/6492 [=======>......................] - ETA: 16s - loss: 3.5675e-05e-05 - val_loss: 1.1486e-05
+2330/6492 [=========>....................] - ETA: 14s - loss: 3.9981e-05e-05 - val_loss: 1.1486e-05
+2955/6492 [============>.................] - ETA: 12s - loss: 4.1293e-05e-05 - val_loss: 1.1486e-05
+3526/6492 [===============>..............] - ETA: 10s - loss: 4.1117e-05e-05 - val_loss: 1.1486e-05
+4165/6492 [==================>...........] - ETA: 8s - loss: 3.9224e-05 e-05 - val_loss: 1.1486e-05
+4748/6492 [====================>.........] - ETA: 6s - loss: 3.9166e-05 e-05 - val_loss: 1.1486e-05
+5345/6492 [=======================>......] - ETA: 3s - loss: 3.9010e-05 e-05 - val_loss: 1.1486e-05
+5954/6492 [==========================>...] - ETA: 1s - loss: 3.8084e-05 e-05 - val_loss: 1.1486e-05
+  81/6492 [..............................] - ETA: 20s - loss: 3.7294e-05e-05 - val_loss: 1.4974e-05
+ 686/6492 [==>...........................] - ETA: 19s - loss: 3.7292e-05e-05 - val_loss: 1.4974e-05
+1289/6492 [====>.........................] - ETA: 17s - loss: 3.4374e-05e-05 - val_loss: 1.4974e-05
+1886/6492 [=======>......................] - ETA: 15s - loss: 3.5026e-05e-05 - val_loss: 1.4974e-05
+2496/6492 [==========>...................] - ETA: 13s - loss: 3.9199e-05e-05 - val_loss: 1.4974e-05
+2807/6492 [===========>..................] - ETA: 12s - loss: 3.7727e-05e-05 - val_loss: 1.4974e-05
+3382/6492 [==============>...............] - ETA: 10s - loss: 3.6525e-05e-05 - val_loss: 1.4974e-05
+3914/6492 [=================>............] - ETA: 9s - loss: 3.6153e-05 e-05 - val_loss: 1.4974e-05
+4458/6492 [===================>..........] - ETA: 7s - loss: 3.5533e-05 e-05 - val_loss: 1.4974e-05
+5050/6492 [======================>.......] - ETA: 5s - loss: 3.5140e-05 e-05 - val_loss: 1.4974e-05
+5597/6492 [========================>.....] - ETA: 3s - loss: 3.5851e-05 e-05 - val_loss: 1.4974e-05
+6161/6492 [===========================>..] - ETA: 1s - loss: 3.6468e-05 e-05 - val_loss: 1.4974e-05
+ 212/6492 [..............................] - ETA: 23s - loss: 2.9276e-05e-05 - val_loss: 4.2885e-04
+ 616/6492 [=>............................] - ETA: 27s - loss: 3.2767e-05e-05 - val_loss: 4.2885e-04
+1008/6492 [===>..........................] - ETA: 26s - loss: 3.0437e-05e-05 - val_loss: 4.2885e-04
+1322/6492 [=====>........................] - ETA: 26s - loss: 2.8830e-05e-05 - val_loss: 4.2885e-04
+1840/6492 [=======>......................] - ETA: 22s - loss: 3.1149e-05e-05 - val_loss: 4.2885e-04
+2413/6492 [==========>...................] - ETA: 18s - loss: 3.0235e-05e-05 - val_loss: 4.2885e-04
+3004/6492 [============>.................] - ETA: 15s - loss: 3.2588e-05e-05 - val_loss: 4.2885e-04
+3617/6492 [===============>..............] - ETA: 11s - loss: 3.4023e-05e-05 - val_loss: 4.2885e-04
+4247/6492 [==================>...........] - ETA: 8s - loss: 3.3104e-05 e-05 - val_loss: 4.2885e-04
+4855/6492 [=====================>........] - ETA: 6s - loss: 3.1960e-05 e-05 - val_loss: 4.2885e-04
+5465/6492 [========================>.....] - ETA: 3s - loss: 3.2572e-05 e-05 - val_loss: 4.2885e-04
+6093/6492 [===========================>..] - ETA: 1s - loss: 3.2062e-05 e-05 - val_loss: 4.2885e-04
+ 231/6492 [>.............................] - ETA: 20s - loss: 1.6443e-05e-05 - val_loss: 5.6531e-05
+ 811/6492 [==>...........................] - ETA: 19s - loss: 2.9252e-05e-05 - val_loss: 5.6531e-05
+1246/6492 [====>.........................] - ETA: 20s - loss: 3.0493e-05e-05 - val_loss: 5.6531e-05
+1612/6492 [======>.......................] - ETA: 20s - loss: 3.3277e-05e-05 - val_loss: 5.6531e-05
+2236/6492 [=========>....................] - ETA: 16s - loss: 3.4825e-05e-05 - val_loss: 5.6531e-05
+2856/6492 [============>.................] - ETA: 13s - loss: 3.2060e-05e-05 - val_loss: 5.6531e-05
+3478/6492 [===============>..............] - ETA: 11s - loss: 3.2228e-05e-05 - val_loss: 5.6531e-05
+3947/6492 [=================>............] - ETA: 9s - loss: 3.2086e-05 e-05 - val_loss: 5.6531e-05
+4581/6492 [====================>.........] - ETA: 6s - loss: 3.0813e-05 e-05 - val_loss: 5.6531e-05
+5177/6492 [======================>.......] - ETA: 4s - loss: 3.1365e-05 e-05 - val_loss: 5.6531e-05
+5764/6492 [=========================>....] - ETA: 2s - loss: 3.1052e-05 e-05 - val_loss: 5.6531e-05
+6394/6492 [============================>.] - ETA: 0s - loss: 3.1375e-05 e-05 - val_loss: 5.6531e-05
+6394/6492 [============================>.] - ETA: 0s - loss: 3.1375e-05 e-05 - val_loss: 5.6531e-05
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+Epoch 1/10or ZBRA saved successfully to Excel.s/step/step - loss: 3.1391e-05 - val_loss: 3.3588e-05
+ 238/6493 [>.............................] - ETA: 20s - loss: 4.1208e-04e-05 - val_loss: 3.3588e-05
+ 867/6493 [===>..........................] - ETA: 18s - loss: 2.5024e-04e-05 - val_loss: 3.3588e-05
+1486/6493 [=====>........................] - ETA: 16s - loss: 1.9470e-04e-05 - val_loss: 3.3588e-05
+2125/6493 [========>.....................] - ETA: 14s - loss: 1.5702e-04e-05 - val_loss: 3.3588e-05
+2755/6493 [===========>..................] - ETA: 12s - loss: 1.4559e-04e-05 - val_loss: 3.3588e-05
+3372/6493 [==============>...............] - ETA: 10s - loss: 1.3324e-04e-05 - val_loss: 3.3588e-05
+4005/6493 [=================>............] - ETA: 8s - loss: 1.2220e-04 e-05 - val_loss: 3.3588e-05
+4626/6493 [====================>.........] - ETA: 6s - loss: 1.2251e-04 e-05 - val_loss: 3.3588e-05
+5254/6493 [=======================>......] - ETA: 4s - loss: 1.1535e-04 e-05 - val_loss: 3.3588e-05
+5839/6493 [=========================>....] - ETA: 2s - loss: 1.1162e-04 e-05 - val_loss: 3.3588e-05
+6480/6493 [============================>.] - ETA: 0s - loss: 1.0603e-04 e-05 - val_loss: 3.3588e-05
+ 437/6493 [=>............................] - ETA: 19s - loss: 8.9568e-05e-04 - val_loss: 4.0453e-05
+1065/6493 [===>..........................] - ETA: 17s - loss: 7.4198e-05e-04 - val_loss: 4.0453e-05
+1692/6493 [======>.......................] - ETA: 15s - loss: 7.6494e-05e-04 - val_loss: 4.0453e-05
+2308/6493 [=========>....................] - ETA: 13s - loss: 7.2220e-05e-04 - val_loss: 4.0453e-05
+2884/6493 [============>.................] - ETA: 11s - loss: 7.1803e-05e-04 - val_loss: 4.0453e-05
+3459/6493 [==============>...............] - ETA: 10s - loss: 6.8065e-05e-04 - val_loss: 4.0453e-05
+4082/6493 [=================>............] - ETA: 8s - loss: 6.9498e-05 e-04 - val_loss: 4.0453e-05
+4677/6493 [====================>.........] - ETA: 6s - loss: 6.5438e-05 e-04 - val_loss: 4.0453e-05
+5281/6493 [=======================>......] - ETA: 4s - loss: 6.3430e-05 e-04 - val_loss: 4.0453e-05
+5877/6493 [==========================>...] - ETA: 2s - loss: 6.3637e-05 e-04 - val_loss: 4.0453e-05
+6327/6493 [============================>.] - ETA: 0s - loss: 6.2424e-05 e-04 - val_loss: 4.0453e-05
+ 432/6493 [>.............................] - ETA: 20s - loss: 5.2971e-05e-05 - val_loss: 3.1006e-06
+1032/6493 [===>..........................] - ETA: 18s - loss: 4.3793e-05e-05 - val_loss: 3.1006e-06
+1618/6493 [======>.......................] - ETA: 16s - loss: 4.8408e-05e-05 - val_loss: 3.1006e-06
+2224/6493 [=========>....................] - ETA: 14s - loss: 5.1553e-05e-05 - val_loss: 3.1006e-06
+2851/6493 [============>.................] - ETA: 12s - loss: 5.4279e-05e-05 - val_loss: 3.1006e-06
+3422/6493 [==============>...............] - ETA: 10s - loss: 5.2446e-05e-05 - val_loss: 3.1006e-06
+4038/6493 [=================>............] - ETA: 8s - loss: 4.9766e-05 e-05 - val_loss: 3.1006e-06
+4566/6493 [====================>.........] - ETA: 6s - loss: 4.9525e-05 e-05 - val_loss: 3.1006e-06
+5152/6493 [======================>.......] - ETA: 4s - loss: 4.9692e-05 e-05 - val_loss: 3.1006e-06
+5722/6493 [=========================>....] - ETA: 2s - loss: 4.9497e-05 e-05 - val_loss: 3.1006e-06
+6294/6493 [============================>.] - ETA: 0s - loss: 4.8280e-05 e-05 - val_loss: 3.1006e-06
+ 363/6493 [>.............................] - ETA: 22s - loss: 3.3031e-05e-05 - val_loss: 1.3454e-05
+ 941/6493 [===>..........................] - ETA: 19s - loss: 4.3009e-05e-05 - val_loss: 1.3454e-05
+1354/6493 [=====>........................] - ETA: 20s - loss: 5.5791e-05e-05 - val_loss: 1.3454e-05
+1789/6493 [=======>......................] - ETA: 19s - loss: 5.5746e-05e-05 - val_loss: 1.3454e-05
+2197/6493 [=========>....................] - ETA: 18s - loss: 5.0916e-05e-05 - val_loss: 1.3454e-05
+2732/6493 [===========>..................] - ETA: 15s - loss: 4.7156e-05e-05 - val_loss: 1.3454e-05
+3284/6493 [==============>...............] - ETA: 13s - loss: 4.4713e-05e-05 - val_loss: 1.3454e-05
+3742/6493 [================>.............] - ETA: 11s - loss: 4.4564e-05e-05 - val_loss: 1.3454e-05
+4345/6493 [===================>..........] - ETA: 8s - loss: 4.5644e-05 e-05 - val_loss: 1.3454e-05
+4988/6493 [======================>.......] - ETA: 5s - loss: 4.4743e-05 e-05 - val_loss: 1.3454e-05
+5622/6493 [========================>.....] - ETA: 3s - loss: 4.5637e-05 e-05 - val_loss: 1.3454e-05
+6251/6493 [===========================>..] - ETA: 0s - loss: 4.5826e-05 e-05 - val_loss: 1.3454e-05
+ 390/6493 [>.............................] - ETA: 18s - loss: 2.8135e-05e-05 - val_loss: 1.0858e-04
+1035/6493 [===>..........................] - ETA: 17s - loss: 3.1015e-05e-05 - val_loss: 1.0858e-04
+1667/6493 [======>.......................] - ETA: 15s - loss: 3.6223e-05e-05 - val_loss: 1.0858e-04
+2160/6493 [========>.....................] - ETA: 13s - loss: 3.6106e-05e-05 - val_loss: 1.0858e-04
+2806/6493 [===========>..................] - ETA: 11s - loss: 3.6604e-05e-05 - val_loss: 1.0858e-04
+3449/6493 [==============>...............] - ETA: 9s - loss: 3.8989e-05 e-05 - val_loss: 1.0858e-04
+4052/6493 [=================>............] - ETA: 7s - loss: 3.8725e-05 e-05 - val_loss: 1.0858e-04
+4600/6493 [====================>.........] - ETA: 6s - loss: 3.9390e-05 e-05 - val_loss: 1.0858e-04
+5154/6493 [======================>.......] - ETA: 4s - loss: 4.1779e-05 e-05 - val_loss: 1.0858e-04
+5802/6493 [=========================>....] - ETA: 2s - loss: 4.1012e-05 e-05 - val_loss: 1.0858e-04
+6433/6493 [============================>.] - ETA: 0s - loss: 4.0621e-05 e-05 - val_loss: 1.0858e-04
+ 541/6493 [=>............................] - ETA: 20s - loss: 3.4244e-05e-05 - val_loss: 5.0130e-05
+1184/6493 [====>.........................] - ETA: 17s - loss: 3.5439e-05e-05 - val_loss: 5.0130e-05
+1816/6493 [=======>......................] - ETA: 15s - loss: 3.8334e-05e-05 - val_loss: 5.0130e-05
+2477/6493 [==========>...................] - ETA: 12s - loss: 3.8994e-05e-05 - val_loss: 5.0130e-05
+3126/6493 [=============>................] - ETA: 10s - loss: 3.6853e-05e-05 - val_loss: 5.0130e-05
+3768/6493 [================>.............] - ETA: 8s - loss: 3.8415e-05 e-05 - val_loss: 5.0130e-05
+4413/6493 [===================>..........] - ETA: 6s - loss: 3.6962e-05 e-05 - val_loss: 5.0130e-05
+5051/6493 [======================>.......] - ETA: 4s - loss: 3.7229e-05 e-05 - val_loss: 5.0130e-05
+5632/6493 [=========================>....] - ETA: 2s - loss: 3.7394e-05 e-05 - val_loss: 5.0130e-05
+6253/6493 [===========================>..] - ETA: 0s - loss: 3.7304e-05 e-05 - val_loss: 5.0130e-05
+ 394/6493 [>.............................] - ETA: 19s - loss: 2.2530e-05e-05 - val_loss: 2.2297e-04
+1042/6493 [===>..........................] - ETA: 17s - loss: 2.7886e-05e-05 - val_loss: 2.2297e-04
+1283/6493 [====>.........................] - ETA: 16s - loss: 2.8797e-05e-05 - val_loss: 2.2297e-04
+1283/6493 [====>.........................] - ETA: 16s - loss: 2.8797e-05e-05 - val_loss: 2.2297e-04

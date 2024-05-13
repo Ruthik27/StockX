@@ -1,0 +1,29 @@
+Processing ZBRA
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 3s 4ms/step - loss: 0.0209 - val_loss: 0.0215
+Epoch 2/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0021 - val_loss: 0.0202
+Epoch 3/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0017 - val_loss: 0.0196
+Epoch 4/50
+203/203 [==============================] - 1s 2ms/step - loss: 0.0015 - val_loss: 0.0206
+Epoch 5/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0014 - val_loss: 0.0200
+Epoch 6/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0014 - val_loss: 0.0202
+Epoch 7/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0013 - val_loss: 0.0201
+Epoch 8/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0012 - val_loss: 0.0200
+Epoch 9/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0011 - val_loss: 0.0200
+Epoch 10/50
+203/203 [==============================] - 1s 2ms/step - loss: 0.0011 - val_loss: 0.0201
+Epoch 11/50
+203/203 [==============================] - 0s 2ms/step - loss: 0.0010 - val_loss: 0.0200
+Epoch 12/50
+203/203 [==============================] - 0s 2ms/step - loss: 9.5235e-04 - val_loss: 0.0200
+Epoch 13/50
+203/203 [==============================] - 0s 2ms/step - loss: 8.8661e-04 - val_loss: 0.0200
+51/51 [==============================] - 0s 814us/step

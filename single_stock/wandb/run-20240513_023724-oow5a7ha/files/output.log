@@ -1,0 +1,26 @@
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 4s 10ms/step - loss: 2.1010e-04 - val_loss: 1.4548e-05
+Epoch 2/50
+203/203 [==============================] - 2s 8ms/step - loss: 3.5922e-05 - val_loss: 5.8123e-05
+Epoch 3/50
+203/203 [==============================] - 2s 8ms/step - loss: 2.9054e-05 - val_loss: 1.5267e-04
+Epoch 4/50
+203/203 [==============================] - 2s 8ms/step - loss: 2.3800e-05 - val_loss: 1.5372e-04
+Epoch 5/50
+203/203 [==============================] - 1s 7ms/step - loss: 1.9101e-05 - val_loss: 2.1423e-05
+Epoch 6/50
+203/203 [==============================] - 1s 7ms/step - loss: 2.0580e-05 - val_loss: 1.6790e-05
+Training completed with early stopping to prevent overfitting.
+1/1 [==============================] - 1s 525ms/step
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:269: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:226: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean,
+/Users/ruthikkale/anaconda3/lib/python3.11/site-packages/numpy/core/_methods.py:261: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)

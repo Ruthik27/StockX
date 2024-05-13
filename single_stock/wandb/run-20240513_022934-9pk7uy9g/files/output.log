@@ -1,0 +1,42 @@
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/10
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 23s 3ms/step - loss: 1.0954e-04 - val_loss: 1.5930e-04
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+6483/6483 [==============================] - 28s 4ms/step - loss: 5.8523e-05 - val_loss: 3.2131e-07
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+
+
+
+4785/6483 [=====================>........] - ETA: 8s - loss: 5.2432e-05

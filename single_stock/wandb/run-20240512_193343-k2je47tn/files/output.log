@@ -1,0 +1,23 @@
+Processing ZBRA
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 3s 4ms/step - loss: nan - val_loss: nan
+Epoch 2/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 3/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 4/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 5/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 6/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 7/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 8/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 9/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+Epoch 10/50
+203/203 [==============================] - 0s 2ms/step - loss: nan - val_loss: nan
+51/51 [==============================] - 0s 837us/step

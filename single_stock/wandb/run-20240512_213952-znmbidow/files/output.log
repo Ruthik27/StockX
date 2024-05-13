@@ -1,0 +1,166 @@
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+203/203 [==============================] - 3s 5ms/step - loss: 2.2437e-04 - val_loss: 4.7311e-05
+Epoch 2/50
+203/203 [==============================] - 1s 3ms/step - loss: 2.1177e-05 - val_loss: 2.2959e-04
+Epoch 3/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.9338e-05 - val_loss: 2.7399e-04
+Epoch 4/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.5905e-05 - val_loss: 5.3816e-05
+Epoch 5/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.4664e-05 - val_loss: 8.6527e-05
+Epoch 6/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.5937e-05 - val_loss: 1.6464e-04
+Epoch 7/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.3875e-05 - val_loss: 7.1648e-05
+Epoch 8/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.2620e-05 - val_loss: 0.0016
+Epoch 9/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.4129e-05 - val_loss: 4.7782e-04
+Epoch 10/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.3117e-05 - val_loss: 0.0013
+Epoch 11/50
+203/203 [==============================] - 1s 3ms/step - loss: 1.1857e-05 - val_loss: 1.1984e-04
+51/51 [==============================] - 0s 923us/step
+All data for ZBRA saved successfully to Excel.
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+1/1 [==============================] - 2s 2s/step - loss: 0.3246 - val_loss: 0.0334
+Epoch 2/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2959 - val_loss: 0.0296
+Epoch 3/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2796 - val_loss: 0.0261
+Epoch 4/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2594 - val_loss: 0.0228
+Epoch 5/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2365 - val_loss: 0.0198
+Epoch 6/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.2150 - val_loss: 0.0171
+Epoch 7/50
+1/1 [==============================] - 0s 16ms/step - loss: 0.1952 - val_loss: 0.0148
+Epoch 8/50
+1/1 [==============================] - 0s 31ms/step - loss: 0.1755 - val_loss: 0.0128
+Epoch 9/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.1506 - val_loss: 0.0113
+Epoch 10/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.1324 - val_loss: 0.0103
+Epoch 11/50
+1/1 [==============================] - 0s 19ms/step - loss: 0.1098 - val_loss: 0.0099
+Epoch 12/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0959 - val_loss: 0.0104
+Epoch 13/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0906 - val_loss: 0.0118
+Epoch 14/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0671 - val_loss: 0.0142
+Epoch 15/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.0487 - val_loss: 0.0179
+Epoch 16/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.0395 - val_loss: 0.0230
+Epoch 17/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0233 - val_loss: 0.0294
+Epoch 18/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.0234 - val_loss: 0.0371
+Epoch 19/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0166 - val_loss: 0.0454
+Epoch 20/50
+1/1 [==============================] - 0s 17ms/step - loss: 0.0239 - val_loss: 0.0535
+Epoch 21/50
+1/1 [==============================] - 0s 18ms/step - loss: 0.0352 - val_loss: 0.0595
+1/1 [==============================] - 0s 369ms/step
+All data for VLTO saved successfully to Excel.
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Epoch 1/50
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+68/68 [==============================] - 2s 9ms/step - loss: 0.0162 - val_loss: 0.0014
+Epoch 2/50
+68/68 [==============================] - 0s 3ms/step - loss: 0.0011 - val_loss: 2.0888e-04
+Epoch 3/50
+68/68 [==============================] - 0s 3ms/step - loss: 0.0010 - val_loss: 1.2667e-04
+Epoch 4/50
+68/68 [==============================] - 0s 3ms/step - loss: 8.9917e-04 - val_loss: 3.2014e-04
+Epoch 5/50
+68/68 [==============================] - 0s 3ms/step - loss: 8.3686e-04 - val_loss: 3.4633e-04
+Epoch 6/50
+68/68 [==============================] - 0s 3ms/step - loss: 8.4103e-04 - val_loss: 1.0059e-04
+Epoch 7/50
+68/68 [==============================] - 0s 3ms/step - loss: 7.1684e-04 - val_loss: 2.6406e-04
+Epoch 8/50
+68/68 [==============================] - 0s 3ms/step - loss: 7.5563e-04 - val_loss: 2.2552e-04
+Epoch 9/50
+68/68 [==============================] - 0s 3ms/step - loss: 7.5173e-04 - val_loss: 2.8543e-04
+Epoch 10/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.9694e-04 - val_loss: 3.2561e-04
+Epoch 11/50
+68/68 [==============================] - 0s 3ms/step - loss: 6.2525e-04 - val_loss: 2.3140e-04
+Epoch 12/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.8219e-04 - val_loss: 1.1485e-04
+Epoch 13/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.3789e-04 - val_loss: 6.6556e-05
+Epoch 14/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.6349e-04 - val_loss: 1.8702e-04
+Epoch 15/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.9341e-04 - val_loss: 9.5335e-04
+Epoch 16/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.8120e-04 - val_loss: 4.5149e-04
+Epoch 17/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.5826e-04 - val_loss: 1.3818e-04
+Epoch 18/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.4964e-04 - val_loss: 9.9874e-05
+Epoch 19/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.4124e-04 - val_loss: 9.3490e-05
+Epoch 20/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.0119e-04 - val_loss: 3.3160e-04
+Epoch 21/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.0436e-04 - val_loss: 2.8369e-04
+Epoch 22/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.4743e-04 - val_loss: 6.6219e-05
+Epoch 23/50
+Epoch 32/50==========================] - 0s 3ms/step - loss: 4.7407e-04 - val_loss: 1.5839e-04
+Epoch 24/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.5520e-04 - val_loss: 3.5345e-04
+Epoch 25/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.5357e-04 - val_loss: 7.2680e-05
+Epoch 26/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.7369e-04 - val_loss: 1.1527e-04
+Epoch 27/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.1811e-04 - val_loss: 2.1427e-04
+Epoch 28/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.6478e-04 - val_loss: 9.6239e-05
+Epoch 29/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.5686e-04 - val_loss: 3.0185e-04
+Epoch 30/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.6460e-04 - val_loss: 5.9901e-05
+Epoch 31/50
+68/68 [==============================] - 0s 3ms/step - loss: 5.1486e-04 - val_loss: 3.0552e-04
+Epoch 32/50==========================] - 0s 3ms/step - loss: 4.7407e-04 - val_loss: 1.5839e-04
+68/68 [==============================] - 0s 3ms/step - loss: 3.7760e-04 - val_loss: 4.1839e-04
+Epoch 33/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 34/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.4044e-04 - val_loss: 1.6190e-04
+Epoch 35/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.7316e-04 - val_loss: 3.4607e-04
+Epoch 36/50
+68/68 [==============================] - 0s 3ms/step - loss: 3.9383e-04 - val_loss: 9.9247e-05
+Epoch 37/50
+68/68 [==============================] - 0s 3ms/step - loss: 3.6504e-04 - val_loss: 1.5061e-04
+Epoch 38/50
+68/68 [==============================] - 0s 3ms/step - loss: 4.7298e-04 - val_loss: 9.8343e-05
+Epoch 39/50
+68/68 [==============================] - 0s 3ms/step - loss: 3.7755e-04 - val_loss: 7.5438e-05
+Epoch 40/50
+68/68 [==============================] - 0s 3ms/step - loss: 3.5897e-04 - val_loss: 1.3085e-04
+17/17 [==============================] - 0s 1ms/step
+All data for ZTS saved successfully to Excel.
+Columns available: Index(['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+68/68 [==============================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+68/68 [==============================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 2/50===========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 2/50===========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 12/50==========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 12/50==========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 22/50==========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 22/50==========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
+Epoch 22/50==========================] - 0s 3ms/step - loss: 4.3341e-04 - val_loss: 1.0327e-04
